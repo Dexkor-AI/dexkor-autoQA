@@ -1,0 +1,138 @@
+
+            You are tasked with evaluating a conversation between a customer and an agent. Your job is to assess the agent's performance across 
+            various categories and provide a score for each sub-parameter based on how well the agent followed best practices, responded to the 
+            customer, and handled the issue at hand. Please use the scoring system outlined below and ensure that your evaluation is fair, 
+            consistent, and objective. After completing the evaluation, return the results as a structured JSON object containing scores for each 
+            of the parameters. You have to provide score out of the maximum given for each parameter.
+
+            Evaluation Parameters:
+            1. Opening (max 15 points)
+                - First response given within defined timeframe (10 points): Did the agent respond within 1 minute after being assigned to the customer?
+                - Opening statement (Pre-defined) (5 points): Did the agent use the predefined opening statement template correctly?
+            
+            2. Communication Skills (20 points)
+                - Apology / Empathy when required (10 points): Did the agent demonstrate empathy or apologize when necessary (e.g., when the customer faced an issue)?
+                - Timely response (5 points): Did the agent respond within 5-7 minutes to avoid dead air during the conversation?
+                - Correct sentence formation (5 points): Was the agent’s language clear, free from spelling errors, and professionally structured? Did they use simple words and follow language guidelines?
+            
+            3. Chat Handling (25 points)
+                - Asked Probing questions (5 points): Did the agent ask relevant probing questions (e.g., "What happened exactly?") to understand the issue better?
+                - Chat Disposition (5 points): Did the agent use the correct disposition for the scenario, or was it misused?
+                - Internal Notes (5 points): Were the agent’s internal notes clear and reflective of the conversation (e.g., actions taken, customer concerns)?
+                - Notes for inter-department assignment (5 points): Did the agent provide appropriate notes if the case was handed over to another department (e.g., L2, L3)?
+                - Logs URL to be added for reference (5 points): Did the agent add the necessary URL to logs, if required, for future reference?
+            
+            4. Product Knowledge (40 points)
+                - Proactively sharing product knowledge / education for future reference (10 points): Did the agent proactively share helpful product knowledge or resources to prevent future issues?
+                - Proper information to Tech / TL / Other internal departments while assigning the case (10 points): Did the agent correctly convey information to other departments (Tech, TL) when needed?
+                - Possible Resolution in case of no response based on available information (10 points): Did the agent provide a potential resolution when the customer did not respond, using the available information?
+                - Screenshot / knowledgebase / steps / reference (10 points): Did the agent include helpful screenshots, knowledge base links, or step-by-step instructions to assist in resolving the issue?
+            
+            5. Fatal (Zero Tolerance)
+                - Provided incorrect / incomplete information (Zero tolerance): Was any incorrect or incomplete information provided to the customer? If so, the score is zero unless the agent rectified it within the same conversation.
+                - No Changes / action to be done on customer panel without permission and confirmation (Zero tolerance): Did the agent take any action on the customer’s panel without explicit permission? If so, the score is zero.
+                - Issue avoidance (Zero tolerance): Did the agent proactively close the case without resolving all the customer’s queries? If so, the score is zero.
+                - Use of unprofessional language (Zero tolerance): Did the agent use any unprofessional language, derogatory words, or engage in inappropriate conversations? If so, the score is zero.
+            
+            6. Sentiment:
+                - Overall Sentiment: Positive, Negative, Neutral
+            
+            7. Summary:
+                - Provide a brief summary of conversation.
+                - Include all the key points discussed during the conversation.
+                - Include any action items or next steps.
+                - Include any additional information that may be relevant.
+                
+            Task Steps:
+            1. Evaluate the Transcript:
+                - Review the entire conversation between the customer and the agent. For each parameter, assign a score based on the details of the interaction. Ensure the score reflects the agent's adherence to the best practices outlined in the above categories.
+
+            2. Return a JSON Object:
+                - Once the evaluation is complete, please return the results in the following JSON format:
+
+            # Return only JSON object, do not return any additional text in the response, like (here is the json response..., Here is the evaluation in JSON format, etc)
+            {
+                "Opening": {
+                    "First response given within defined timeframe": <score>,
+                    "Opening statement (Pre-defined)": <score>,
+                    "Reasoning": <reasoning_for_score>
+                },
+                "Communication skills": {
+                    "Apology / Empathy when required": <score>, 
+                    "Timely response": <score>,
+                    "Correct sentence formation": <score>,
+                    "Reasoning": <reasoning_for_score>
+                },
+                "Chat Handling": {
+                    "Asked Probing questions (WH Questions)": <score>,
+                    "Chat Disposition": <score>,
+                    "Internal Notes": <score>,
+                    "Notes for inter department assignment": <score>,
+                    "Logs URL to be added for reference": <score>,
+                    "Reasoning": <reasoning_for_score>
+
+                },
+                "Product Knowledge": {
+                    "Proactively sharing product knowledge/education for future reference": <score>,
+                    "Proper information to Tech / TL / Other internal departments while assigning the case": <score>,
+                    "Possible Resolution in case of no response basis available information": <score>,
+                    "Screenshot / knowledgebase / steps / reference": <score>,
+                    "Reasoning": <reasoning_for_score>
+                },
+                "Fatal": <yes or no>,
+                "Sentiment": <overall_sentiment>,
+                "Summary": <summary_of_transcript>
+            }
+
+            Transcript: 
+            Code: TK822144
+Transcript: 
+2022-11-18T10:42:15.299: ecom@macklystore.com - inventory sync is not done for the attached styles, please check
+2022-11-18T10:42:15.311: ecom@macklystore.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-18T10:42:15.312: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-18T10:44:46.752: Augustya Dev - Assignee changed to Augustya Dev ( CS_PREMIUM ) by Augustya Dev
+2022-11-18T10:44:59.391: Augustya Dev - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-18T10:55:30.899: Augustya Dev - Dear Client, as checked from the backend, every mentioned SKU has zero inventory against it and it syncing successfully from our end as well
+2022-11-18T10:56:05.920: Augustya Dev - If you want these to be shown in stock on your website, Please add inventory for these SKUs
+2022-11-18T10:56:10.828: Augustya Dev - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-18T10:56:42.752: Augustya Dev - Tags changed  to [CS_PREMIUM, IssueResolved, InventorySync, ProductRelated, Shopify] by Augustya Dev
+2022-11-18T10:56:43.140: Augustya Dev - Resolved by Augustya Dev
+2022-11-18T10:57:54.851: Joel Stephen - Reopened by Joel Stephen
+2022-11-18T10:57:54.851: Joel Stephen - go and check the inventory
+2022-11-18T10:57:54.863: Joel Stephen - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-18T10:58:07.538: Rateesh Tripathi - Assignee changed to Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2022-11-18T10:58:14.709: Rateesh Tripathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-18T10:58:30.214: Rateesh Tripathi - Assigning this ticket to the concerned person.
+2022-11-18T10:58:34.515: Rateesh Tripathi - Assignee changed to Augustya Dev ( CS_PREMIUM ) from Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2022-11-18T10:59:59.263: Joel Stephen - without checking why you are saying something and closing the ticket
+2022-11-18T11:01:45.027: Augustya Dev - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-18T11:03:42.816: Augustya Dev - Your SKUs not even showing in the inventory tab because they have no inventory available
+2022-11-18T11:04:36.238: Augustya Dev - Please check
+2022-11-18T11:09:30.035: Augustya Dev - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-18T11:09:32.600: Augustya Dev - Tags changed  to [CS_PREMIUM, IssueResolved, InventorySync, ProductRelated, Shopify] by Augustya Dev
+2022-11-18T11:09:32.732: Augustya Dev - Resolved by Augustya Dev
+2022-11-18T11:19:06.892: Joel Stephen - Reopened by Joel Stephen
+2022-11-18T11:19:06.892: Joel Stephen - then what is this
+
+2022-11-18T11:19:06.910: Joel Stephen - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-18T11:19:22.621: Augustya Dev - Assignee changed to Augustya Dev ( CS_PREMIUM ) by Augustya Dev
+2022-11-18T11:19:40.092: Augustya Dev - ?
+2022-11-18T11:21:02.401: Augustya Dev - Wait let me check
+2022-11-18T11:39:42.795: Augustya Dev - Dear Client, two things. The SKUs C12-38-1-6-7YEARS and C12-38-1-10-12YEARS
+were not shared by you in the first file and also C12-38-1-10-12YEARS
+and C12-38-1-6-7YEARS are not linked with any channel SKU so there inventory is not syncing on any channel
+
+
+Second, the SKU C12-38-5-6YEARS had 1 inventory in stock which is already in blocked, means the available inventory that is syncing for the sku is 0
+2022-11-18T11:40:47.087: Augustya Dev - As you can see the SKUs C12-38-1-10-12YEARS and C12-38-1-6-7YEARS are not linked with any channel
+2022-11-18T11:41:17.629: Augustya Dev - So the 1 inventory is nit syncing anywhere
+2022-11-18T11:41:34.665: Augustya Dev - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-18T11:41:40.856: Augustya Dev - Tags changed  to [CS_PREMIUM, IssueResolved, InventorySync, ProductRelated, Shopify] by Augustya Dev
+2022-11-18T11:41:40.979: Augustya Dev - Resolved by Augustya Dev
+2022-11-22T22:00:02.065: Unicommerce Customer Support - Closed Automatically on Wed Nov 23 2022 03:30:02 GMT+0530 (IST)
+
+
+
+        

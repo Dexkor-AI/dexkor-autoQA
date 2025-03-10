@@ -1,0 +1,1462 @@
+Code: TK822144
+Transcript: 
+2022-11-18T10:42:15.299: ecom@macklystore.com - inventory sync is not done for the attached styles, please check
+2022-11-18T10:42:15.311: ecom@macklystore.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-18T10:42:15.312: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-18T10:44:46.752: Augustya Dev - Assignee changed to Augustya Dev ( CS_PREMIUM ) by Augustya Dev
+2022-11-18T10:44:59.391: Augustya Dev - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-18T10:55:30.899: Augustya Dev - Dear Client, as checked from the backend, every mentioned SKU has zero inventory against it and it syncing successfully from our end as well
+2022-11-18T10:56:05.920: Augustya Dev - If you want these to be shown in stock on your website, Please add inventory for these SKUs
+2022-11-18T10:56:10.828: Augustya Dev - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-18T10:56:42.752: Augustya Dev - Tags changed  to [CS_PREMIUM, IssueResolved, InventorySync, ProductRelated, Shopify] by Augustya Dev
+2022-11-18T10:56:43.140: Augustya Dev - Resolved by Augustya Dev
+2022-11-18T10:57:54.851: Joel Stephen - Reopened by Joel Stephen
+2022-11-18T10:57:54.851: Joel Stephen - go and check the inventory
+2022-11-18T10:57:54.863: Joel Stephen - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-18T10:58:07.538: Rateesh Tripathi - Assignee changed to Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2022-11-18T10:58:14.709: Rateesh Tripathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-18T10:58:30.214: Rateesh Tripathi - Assigning this ticket to the concerned person.
+2022-11-18T10:58:34.515: Rateesh Tripathi - Assignee changed to Augustya Dev ( CS_PREMIUM ) from Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2022-11-18T10:59:59.263: Joel Stephen - without checking why you are saying something and closing the ticket
+2022-11-18T11:01:45.027: Augustya Dev - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-18T11:03:42.816: Augustya Dev - Your SKUs not even showing in the inventory tab because they have no inventory available
+2022-11-18T11:04:36.238: Augustya Dev - Please check
+2022-11-18T11:09:30.035: Augustya Dev - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-18T11:09:32.600: Augustya Dev - Tags changed  to [CS_PREMIUM, IssueResolved, InventorySync, ProductRelated, Shopify] by Augustya Dev
+2022-11-18T11:09:32.732: Augustya Dev - Resolved by Augustya Dev
+2022-11-18T11:19:06.892: Joel Stephen - Reopened by Joel Stephen
+2022-11-18T11:19:06.892: Joel Stephen - then what is this
+
+2022-11-18T11:19:06.910: Joel Stephen - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-18T11:19:22.621: Augustya Dev - Assignee changed to Augustya Dev ( CS_PREMIUM ) by Augustya Dev
+2022-11-18T11:19:40.092: Augustya Dev - ?
+2022-11-18T11:21:02.401: Augustya Dev - Wait let me check
+2022-11-18T11:39:42.795: Augustya Dev - Dear Client, two things. The SKUs C12-38-1-6-7YEARS and C12-38-1-10-12YEARS
+were not shared by you in the first file and also C12-38-1-10-12YEARS
+and C12-38-1-6-7YEARS are not linked with any channel SKU so there inventory is not syncing on any channel
+
+
+Second, the SKU C12-38-5-6YEARS had 1 inventory in stock which is already in blocked, means the available inventory that is syncing for the sku is 0
+2022-11-18T11:40:47.087: Augustya Dev - As you can see the SKUs C12-38-1-10-12YEARS and C12-38-1-6-7YEARS are not linked with any channel
+2022-11-18T11:41:17.629: Augustya Dev - So the 1 inventory is nit syncing anywhere
+2022-11-18T11:41:34.665: Augustya Dev - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-18T11:41:40.856: Augustya Dev - Tags changed  to [CS_PREMIUM, IssueResolved, InventorySync, ProductRelated, Shopify] by Augustya Dev
+2022-11-18T11:41:40.979: Augustya Dev - Resolved by Augustya Dev
+2022-11-22T22:00:02.065: Unicommerce Customer Support - Closed Automatically on Wed Nov 23 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK832707
+Transcript: 
+2022-12-14T05:55:00.227: murphyshoez@gmail.com - OD426752747536059100
+OD126759022354876000
+OD226767347344420000
+OD226767332458934000
+these 4 orders are cancelled 
+request you to remove it from shipment tab !!
+
+2022-12-14T05:55:00.236: murphyshoez@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-14T05:55:00.237: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-14T05:57:09.153: Monalisha Singh - Assignee changed to Monalisha Singh ( CS_PREMIUM ) by Monalisha Singh
+2022-12-14T05:57:18.466: Monalisha Singh - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-14T06:09:24.944: Monalisha Singh - Dear Client as we have checked from backend as order is on "cancelled state" on panel as, it will update same via status sync.
+2022-12-14T06:15:45.172: Monalisha Singh - Please share order status on panel and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-14T06:16:02.634: Monalisha Singh - Tags changed  to [CS_PREMIUM, Flipkart, orderprocessing, IssueResolved] by Monalisha Singh
+2022-12-14T06:16:05.779: Monalisha Singh - Tags changed  to [CS_PREMIUM, Flipkart, orderprocessing, IssueResolved] by Monalisha Singh
+2022-12-14T06:16:05.918: Monalisha Singh - Resolved by Monalisha Singh
+2022-12-14T08:05:31.570: Murphy E-Retail - Reopened by Murphy E-Retail
+2022-12-14T08:05:31.570: Murphy E-Retail - it's pending since 2 days 
+2022-12-14T08:05:31.581: Murphy E-Retail - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-14T08:05:54.118: Neha Vashisth - Assignee changed to Neha Vashisth ( CS_PREMIUM ) by Neha Vashisth
+2022-12-14T08:06:00.708: Neha Vashisth - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-14T08:06:11.325: Neha Vashisth - Assignee changed to Monalisha Singh ( CS_PREMIUM ) from Neha Vashisth ( CS_PREMIUM ) by Neha Vashisth
+2022-12-14T08:06:27.689: Monalisha Singh - hi
+2022-12-14T08:08:33.779: Monalisha Singh - Kindly, check now it will remove from pending order tab.
+2022-12-14T08:09:41.702: Monalisha Singh - Please check  now order is remove from pending tab and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-14T08:11:02.310: Monalisha Singh - Tags changed  to [CS_PREMIUM, Flipkart, orderprocessing, IssueResolved, P2] by Monalisha Singh
+2022-12-14T08:11:02.434: Monalisha Singh - Resolved by Monalisha Singh
+2022-12-18T22:00:01.978: Unicommerce Customer Support - Closed Automatically on Mon Dec 19 2022 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK816449
+Transcript: 
+2022-11-03T08:15:25.093: vedant23052001@gmail.com - REPLACEMENT ORDERS OF FLIPKART  ARE NOT FETCHED IN UNIWARE  
+2022-11-03T08:15:25.153: vedant23052001@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-03T08:15:25.154: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-03T08:21:04.633: Aishwarya Bapat - Assignee changed to Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-11-03T08:21:34.039: Aishwarya Bapat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-03T08:22:55.816: Aishwarya Bapat - Please share the order id that is not fetched
+2022-11-03T08:57:14.095: Aishwarya Bapat - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-11-03T09:05:54.768: Aishwarya Bapat - We have still not received the requested information and it would be difficult for us to resolve your issue without the required info. For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2022-11-03T09:06:33.716: Aishwarya Bapat - Tags changed  to [CS_PREMIUM, NoResponse] by Aishwarya Bapat
+2022-11-03T09:06:33.874: Aishwarya Bapat - Resolved by Aishwarya Bapat
+2022-11-03T09:11:20.101: VEDANT PATEL - Reopened by VEDANT PATEL
+2022-11-03T09:11:20.101: VEDANT PATEL - OD226334534322043000 EVERYDAY WE ARE GETTING THIS KIND OF ORDERS 
+
+2022-11-03T09:11:20.115: VEDANT PATEL - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-03T09:11:34.413: Aishwarya Bapat - Assignee changed to Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-11-03T09:11:41.806: Aishwarya Bapat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-03T09:11:46.014: Aishwarya Bapat - Allow me a moment
+2022-11-03T09:20:04.721: Aishwarya Bapat - please share the replacement order id
+2022-11-03T09:50:02.405: Aishwarya Bapat - Please share the replacement order id !!
+2022-11-03T09:50:02.453: Aishwarya Bapat - Please share the replacement order id !!
+2022-11-03T10:11:36.821: Aishwarya Bapat - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-11-03T10:18:13.168: Aishwarya Bapat - We have still not received the requested information and it would be difficult for us to resolve your issue without the required info. For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2022-11-03T10:18:53.565: Aishwarya Bapat - Tags changed  to [CS_PREMIUM, NoResponse, P2] by Aishwarya Bapat
+2022-11-03T10:18:53.702: Aishwarya Bapat - Resolved by Aishwarya Bapat
+2022-11-07T22:00:01.878: Unicommerce Customer Support - Closed Automatically on Tue Nov 08 2022 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK843833
+Transcript: 
+2023-01-07T06:30:49.221: esquarefab@gmail.com - 17d7a0ae-Feef-41e3-B21e-F51a0ab2b3fb
+ need help in processing this order
+2023-01-07T06:30:49.260: esquarefab@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2023-01-07T06:30:49.260: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2023-01-07T06:37:34.012: Deepanshi Upadhyay - Assignee changed to Deepanshi Upadhyay ( CS_PREMIUM ) by Deepanshi Upadhyay
+2023-01-07T06:37:41.852: Deepanshi Upadhyay - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-07T06:37:51.941: Deepanshi Upadhyay - Let me check and revert back to you
+2023-01-07T06:39:31.313: Deepanshi Upadhyay - Dear Client, as checked, your points of uniware are exhausted, please recharge your account to process the orders
+2023-01-07T06:40:12.356: Deepanshi Upadhyay - Please check and let us know by re-opening the ticket in case of any further concern on this.
+2023-01-07T06:40:21.830: Deepanshi Upadhyay - Tags changed  to [CS_PREMIUM, P2, Recharge Related, IssueResolved] by Deepanshi Upadhyay
+2023-01-07T06:40:21.906: Deepanshi Upadhyay - Resolved by Deepanshi Upadhyay
+2023-01-07T06:40:30.148: esquarefab - Reopened by esquarefab
+2023-01-07T06:40:30.148: esquarefab - Hello
+
+2023-01-07T06:40:30.160: esquarefab - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2023-01-07T06:43:13.445: Rajneesh Kumar - Dear Customer,
+
+We apologize to keep you waiting in the queue due to high flow of tickets.
+Our team will connect with you shortly. We request you to please be online.
+
+Thank you for your patience and understanding.
+2023-01-07T06:52:47.368: Monalisha Singh - Assignee changed to Monalisha Singh ( CS_PREMIUM ) by Monalisha Singh
+2023-01-07T06:52:56.484: Monalisha Singh - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-07T06:53:01.212: Monalisha Singh - waiting
+2023-01-07T06:55:49.690: Monalisha Singh - Assignee changed to Deepanshi Upadhyay ( CS_PREMIUM ) from Monalisha Singh ( CS_PREMIUM ) by Monalisha Singh
+2023-01-07T06:56:54.083: Deepanshi Upadhyay - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-07T06:57:31.457: Deepanshi Upadhyay - Have you recharged your account?
+2023-01-07T07:11:49.783: Deepanshi Upadhyay - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2023-01-07T07:15:22.785: Deepanshi Upadhyay - We have still not received the requested information and it would be difficult for us to resolve your issue without the required info. For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2023-01-07T07:15:29.110: Deepanshi Upadhyay - Tags changed  to [CS_PREMIUM, P2, Recharge Related, IssueResolved, NoResponse] by Deepanshi Upadhyay
+2023-01-07T07:15:29.300: Deepanshi Upadhyay - Resolved by Deepanshi Upadhyay
+2023-01-07T07:27:36.608: esquarefab - Closed by esquarefab with feedback 3
+2023-01-07T07:27:36.608: esquarefab - Closed by esquarefab with feedback 3
+
+
+****************************************************************************************************
+
+Code: TK847900
+Transcript: 
+2023-01-16T06:39:17.554: ecom@evergesmart.com - HI team,
+
+How to select Billing Party while creating invoice
+2023-01-16T06:39:17.620: ecom@evergesmart.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2023-01-16T06:39:17.621: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2023-01-16T06:40:43.196: evergesmart - Hindi
+2023-01-16T06:41:02.267: Aishwarya Bapat - Assignee changed to Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2023-01-16T06:41:08.923: Aishwarya Bapat - Hello, hum aapka case check kar rahe hain, please online rahiye.
+2023-01-16T06:47:05.692: Aishwarya Bapat - Dear Client, Aapne jo billing party banai hogi usko aapko channel mei attach karna hoga taaki invoice nikalte waqt details aapke billing party se fetch ho
+
+Isko add karne ke liye inn steps ko follow kare
+
+Go to setting > channel > Open the channel jiske liye aap billing party lagana chahte hai > Billing party > Select > tick mark
+2023-01-16T06:47:16.494: Aishwarya Bapat - https://support.unicommerce.com/index.php/knowledge-base/q-what-is-a-billing-party-how-do-we-set-one/
+2023-01-16T06:47:36.396: Aishwarya Bapat - Aap upar attach kiye support article ko bhi refer kar sakte hai.
+2023-01-16T06:47:48.407: evergesmart - need to ok
+2023-01-16T06:47:51.710: evergesmart - ok
+2023-01-16T06:56:27.621: Aishwarya Bapat - Hum abhi is ticket to resolve mark kar rahe hain. Agar is men aur koi concern hai tou kripya re-open Karen. Agar issue resolve ho gya hai to, please eedback dekar ticket close kar dein.
+2023-01-16T06:56:59.433: Aishwarya Bapat - Tags changed  to [CS_PREMIUM, BillingParty, IssueResolved] by Aishwarya Bapat
+2023-01-16T06:56:59.518: Aishwarya Bapat - Resolved by Aishwarya Bapat
+2023-01-16T06:58:32.262: evergesmart - Closed by evergesmart with feedback 5
+2023-01-16T06:58:32.262: evergesmart - Closed by evergesmart with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK846229
+Transcript: 
+2023-01-11T09:55:42.436: Kunal Chauhan - tenant: gomechanic
+order: TN1001065/2022/01126
+
+Issue: Return code 0206397597 is showing as returned even though it was partially returned. The general setting Partial Return allowed for RTO is TRUE and even after that partial return is not happening.
+
+Few SKUs are return and the putaway for same is also completed but we are unable to do the return putaway for other items.
+
+SKU ID-(GMUNZZCL001), 12 qty Good & 1 Qty Bad
+SKU ID-(GMUNZZCL007), 15 qty  Good
+
+When I create a new putaway and scan the AWB or RP code I get the error INVALID STATE
+
+Please check this.
+2023-01-11T09:55:42.450: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2023-01-11T09:55:49.963: Kunal Chauhan - Assigned to Kunal Chauhan ( ENTERPRISE) by Kunal Chauhan
+2023-01-11T09:56:25.672: Kunal Chauhan - Assignee changed to UNASSIGNED ( TAM ) from Kunal Chauhan ( ENTERPRISE ) by Kunal Chauhan
+2023-01-11T09:58:27.722: Kunal Chauhan - Not able to add ticket on TAM sheet.
+2023-01-11T13:02:22.254: Bindusar Nandi Chaudhuri - Assignee changed to Bindusar Nandi Chaudhuri ( TAM ) by Bindusar Nandi Chaudhuri
+2023-01-11T13:10:43.249: Bindusar Nandi Chaudhuri - When this return was created at that time this config partial rto config was disabled on Jan 02, hence partail return did not happen, for this there is reference ticket as well as jira: https://unicommerce.atlassian.net/browse/UN-9100
+2023-01-11T13:11:41.476: Bindusar Nandi Chaudhuri - Ref ticket: https://unidesk.unicommerce.com/admin/ticket/TK844277
+2023-01-11T13:11:58.245: Bindusar Nandi Chaudhuri - Tags changed  to [ENTERPRISE, TAM, P2, OPS BUCKET: NO_TECH_EFFORT] by Bindusar Nandi Chaudhuri
+2023-01-11T13:12:05.171: Bindusar Nandi Chaudhuri - Assignee changed to Kunal Chauhan ( ENTERPRISE ) from Bindusar Nandi Chaudhuri ( TAM ) by Bindusar Nandi Chaudhuri
+2023-01-11T13:33:02.015: Kunal Chauhan - log: https://tracelog-in.unicommerce.co.in/files/trace-logs/3a041e93-c26f-4a01-8bf1-9acfecdf5de7.log
+2023-01-11T13:33:13.896: Kunal Chauhan - error: Invalid package stateRETURNED
+2023-01-11T13:33:20.063: Kunal Chauhan - Assignee changed to Bindusar Nandi Chaudhuri ( TAM ) from Kunal Chauhan ( ENTERPRISE ) by Kunal Chauhan
+2023-01-11T13:57:56.132: Bindusar Nandi Chaudhuri - Putaway cannot be done as confirmed from Vinod as already a Putaway was created on 17/11/2022 when this return was created and partial config was disabled at that time.
+2023-01-11T13:58:29.052: Bindusar Nandi Chaudhuri - PT8881 was already created
+2023-01-11T13:58:37.736: Bindusar Nandi Chaudhuri - Assignee changed to Kunal Chauhan ( ENTERPRISE ) from Bindusar Nandi Chaudhuri ( TAM ) by Bindusar Nandi Chaudhuri
+2023-01-16T12:08:50.643: Kunal Chauhan - Tags changed  to [ENTERPRISE, TAM, P2, P1] by Kunal Chauhan
+2023-01-16T12:08:50.863: Kunal Chauhan - Resolved by Kunal Chauhan
+2023-01-20T22:00:01.988: Unicommerce Customer Support - Closed Automatically on Sat Jan 21 2023 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK844152
+Transcript: 
+2023-01-08T05:00:55.558: abhishek@hubstore.in - hlo
+2023-01-08T05:00:55.575: abhishek@hubstore.in - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2023-01-08T05:00:55.578: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2023-01-08T05:01:35.875: Abhishek - amazon order ka level nhi nikal rha
+2023-01-08T05:07:58.388: Rateesh Tripathi - Assignee changed to Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2023-01-08T05:08:06.682: Rateesh Tripathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-08T05:09:18.201: Rateesh Tripathi - Dear client, we apologize for the inconvenience you have faced. We’re very sorry. Kindly share an example order ID with us.
+2023-01-08T05:18:28.671: Rateesh Tripathi - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2023-01-08T05:53:58.010: Rateesh Tripathi - We have still not received the requested information and it would be difficult for us to resolve your issue without the required info. For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2023-01-08T05:54:01.475: Rateesh Tripathi - Tags changed  to [CS_PREMIUM, P2, NoResponse] by Rateesh Tripathi
+2023-01-08T05:54:49.798: Rateesh Tripathi - Tags changed  to [CS_PREMIUM, P2, NoResponse] by Rateesh Tripathi
+2023-01-08T05:54:50.028: Rateesh Tripathi - Resolved by Rateesh Tripathi
+2023-01-08T11:17:46.887: Hubstore - Reopened by Hubstore
+2023-01-08T11:17:46.887: Hubstore - 
+
+406-2001119-0935561
+2023-01-08T11:17:46.903: Hubstore - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2023-01-08T11:18:02.284: Hubstore - Code: SPAR00028
+Order: 406-2001119-0935561
+2023-01-08T11:51:13.572: Prabhat Chaudhary - Assignee changed to Prabhat Chaudhary ( CS_PREMIUM ) by Prabhat Chaudhary
+2023-01-08T11:51:20.016: Prabhat Chaudhary - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-08T11:51:43.638: Prabhat Chaudhary - waiting..
+2023-01-08T12:00:17.961: Prabhat Chaudhary - Assigning back to rateesh.
+2023-01-08T12:00:26.088: Prabhat Chaudhary - Assignee changed to Rateesh Tripathi ( CS_PREMIUM ) from Prabhat Chaudhary ( CS_PREMIUM ) by Prabhat Chaudhary
+2023-01-08T12:00:33.146: Rateesh Tripathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-08T12:01:18.092: Rateesh Tripathi - We are forwarding this Ticket to our concerned department. We request you to wait for some time as someone from our concerned department will respond to your query as soon as possible. Meanwhile, please share your contact details in case if callback is required.
+2023-01-08T12:01:47.908: Rateesh Tripathi - Tags changed  to [CS_PREMIUM, P2, GoLive] by Rateesh Tripathi
+2023-01-08T12:02:04.565: Rateesh Tripathi - Assignee changed to UNASSIGNED ( ONBOARDING_SMB ) from Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2023-01-09T04:47:31.979: Charu Gupta - Assignee changed to Charu Gupta ( ONBOARDING_SMB ) by Charu Gupta
+2023-01-09T04:49:35.520: Charu Gupta - Assignee changed to Pratima Soni ( ONBOARDING_SMB ) from Charu Gupta ( ONBOARDING_SMB ) by Charu Gupta
+2023-01-09T04:56:22.194: Pratima Soni - Hello good morning. I will help you with this ticket But I'm trying to connect with you but no response from your end please suggest a suitable time to connect with you.
+2023-01-09T10:10:32.514: Hubstore - Hello 
+\
+2023-01-09T10:10:41.090: Hubstore - pls connect and resolve this
+2023-01-09T11:39:33.378: Pratima Soni - As we discussed with you, labels is created now.
+2023-01-09T11:39:40.613: Pratima Soni - Tags changed  to [CS_PREMIUM, P2, GoLive, ONBOARDING_SMB, IssueResolved] by Pratima Soni
+2023-01-09T11:39:40.720: Pratima Soni - Resolved by Pratima Soni
+2023-01-13T22:00:02.747: Unicommerce Customer Support - Closed Automatically on Sat Jan 14 2023 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK816976
+Transcript: 
+2022-11-04T05:55:05.203: gopher.marketplace@gmail.com - Flipkart order not processing.....Code:
+Order:GOPH11490
+OD226416473223040000
+2022-11-04T05:55:05.435: gopher.marketplace@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-04T05:55:05.437: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-04T06:00:44.210: Prabhat Chaudhary - Assignee changed to Prabhat Chaudhary ( CS_PREMIUM ) by Prabhat Chaudhary
+2022-11-04T06:00:51.639: Prabhat Chaudhary - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-04T06:01:41.146: Prabhat Chaudhary - Hello, I will help you with this ticket. Kindly be online while I am replying. 
+We sincerely apologies for delay in our response. We are facing an unusually high load of tickets, due to which our agents may take time to respond to your query. We request you to be patient. Thank you for understanding
+2022-11-04T06:02:05.572: Prabhat Chaudhary - Dear client, right now we are getting error from flipkart and due to that order processing is getting impacted,
+
+"errorCode":"DEPENDENT_SYSTEM_CALL_FAILED","errorMessage":"A call to dependent system failed. Please retry after some time"
+
+kindly share the above error with Flipkart by creating a incident, we are also connecting with the channel to get it fixed as soon as possible, this should resolve soon.
+2022-11-04T06:03:28.368: Prabhat Chaudhary - Tags changed  to [CS_PREMIUM, Flipkart, bulk, order processing, Channelend] by Prabhat Chaudhary
+2022-11-04T06:04:36.304: Prabhat Chaudhary - Assignee changed to Easyship Order ( CS_PREMIUM ) from Prabhat Chaudhary ( CS_PREMIUM ) by Prabhat Chaudhary
+2022-11-04T09:03:42.344: Rajneesh Kumar - Dear Customer,
+
+We apologize for the delayed response.
+
+We have received a response on the raised issue from the Flipkart team and the issue is resolved now.
+
+You will be able to process the order from Uniware.
+
+In case of any issue, please feel free to contact us back.
+
+Thank you for your patience and understanding.
+2022-11-04T09:04:36.767: Rajneesh Kumar - Tags changed  to [CS_PREMIUM, order processing, P2, Flipkart, OrderRelated, InvoiceGeneration, bulk, Channelend, IssueResolved] by Rajneesh Kumar
+2022-11-04T09:04:36.796: Rajneesh Kumar - Resolved by Rajneesh Kumar
+2022-11-08T22:00:01.913: Unicommerce Customer Support - Closed Automatically on Wed Nov 09 2022 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK823101
+Transcript: 
+2022-11-22T04:37:20.255: smartfashiondeal@gmail.com - WE WANT LOG DETAILS OF MY ACCOUNT
+
+2022-11-22T04:37:20.276: smartfashiondeal@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-22T04:37:20.284: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-22T04:37:42.062: smartfashiondeal - MF-MEESHO
+2022-11-22T04:37:46.486: smartfashiondeal - OF THIS ACCOUNT
+2022-11-22T04:37:46.718: Manoj Tewari - Assignee changed to Manoj Tewari ( CS_PREMIUM ) by Manoj Tewari
+2022-11-22T04:38:00.651: Manoj Tewari - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-22T04:39:46.500: Manoj Tewari - dear client Please confirm you want Log details for Inventory Sync Order sync or catalog Sync ?
+2022-11-22T04:50:25.995: Manoj Tewari - as discussed over call - 6376503557  please share supplier ID so that we can check this further
+2022-11-22T04:50:38.141: smartfashiondeal - 113322
+2022-11-22T04:51:44.781: Manoj Tewari - please allow me some time checking
+2022-11-22T04:51:56.890: smartfashiondeal - OK SIR
+2022-11-22T04:58:24.366: Manoj Tewari - Tags changed  to [CS_PREMIUM, CallBack, Meesho] by Manoj Tewari
+2022-11-22T05:01:53.186: Manoj Tewari - On call
+2022-11-22T05:06:33.209: Manoj Tewari - https://tracelog-in.unicommerce.co.in/files/trace-logs/ca2220d8-f47d-4595-a036-767ef2bdda4c.log
+2022-11-22T05:09:36.167: Manoj Tewari - dear client the above Logs are for your channel MEESHO_MF catalog sync and Connectors (Supplier ID ) Logs
+2022-11-22T05:09:55.017: Manoj Tewari - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs] by Manoj Tewari
+2022-11-22T05:09:58.284: Manoj Tewari - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs] by Manoj Tewari
+2022-11-22T05:13:26.754: Manoj Tewari - have a good day ahead
+2022-11-22T05:13:32.192: Manoj Tewari - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-22T05:13:38.509: Manoj Tewari - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved] by Manoj Tewari
+2022-11-22T05:13:38.685: Manoj Tewari - Resolved by Manoj Tewari
+2022-11-22T14:50:12.185: smartfashiondeal - Reopened by smartfashiondeal
+2022-11-22T14:50:12.185: smartfashiondeal - SIR
+
+2022-11-22T14:50:12.215: smartfashiondeal - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-22T14:50:19.356: smartfashiondeal - 570585
+2022-11-22T14:50:35.394: smartfashiondeal - DE-MEESHO
+2022-11-22T14:50:52.938: smartfashiondeal - SIR MUJHE IS ACCOUNT KE BHI CHAHIYE
+2022-11-23T03:34:03.899: Neha Vashisth - Assignee changed to Neha Vashisth ( CS_PREMIUM ) by Neha Vashisth
+2022-11-23T03:34:24.220: Neha Vashisth - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-23T04:04:10.566: Neha Vashisth - https://tracelog-in.unicommerce.co.in/files/trace-logs/7b2f5802-f595-47da-a813-07890713595d.log
+2022-11-23T04:04:33.578: Neha Vashisth - Dear Client, kindly check the log file is attached above.
+2022-11-23T04:04:38.382: Neha Vashisth - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-23T04:04:49.956: Neha Vashisth - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2] by Neha Vashisth
+2022-11-23T04:04:53.076: Neha Vashisth - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2] by Neha Vashisth
+2022-11-23T04:04:53.291: Neha Vashisth - Resolved by Neha Vashisth
+2022-11-23T10:40:11.278: smartfashiondeal - Reopened by smartfashiondeal
+2022-11-23T10:40:11.278: smartfashiondeal - please send both logs
+2022-11-23T10:40:11.293: smartfashiondeal - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-23T10:41:20.301: Ankur Rawat - Assignee changed to Neha Vashisth ( CS_PREMIUM ) by Ankur Rawat
+2022-11-23T10:41:39.128: Neha Vashisth - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-23T10:50:57.797: Neha Vashisth - Please confirm which both logs are you referring to?
+2022-11-23T10:51:24.928: Neha Vashisth - Could you please elaborate the same for the better understanding for us and for the better resolution for you.
+2022-11-23T10:56:23.732: Neha Vashisth - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-11-23T10:56:27.522: smartfashiondeal - Inventory Sync,
+Order sync or catalog Sync ?
+2022-11-23T10:58:53.046: Neha Vashisth - For Which concern  do you need the logs for??
+2022-11-23T11:11:51.915: Neha Vashisth - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-11-23T11:15:30.566: Neha Vashisth - We have still not received the requested information and it would be difficult for us to resolve your issue without the required info. For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2022-11-23T11:15:38.739: Neha Vashisth - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2, NoResponse] by Neha Vashisth
+2022-11-23T11:15:41.265: Neha Vashisth - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2, NoResponse] by Neha Vashisth
+2022-11-23T11:15:41.544: Neha Vashisth - Resolved by Neha Vashisth
+2022-11-23T12:21:12.075: smartfashiondeal - Reopened by smartfashiondeal
+2022-11-23T12:21:12.075: smartfashiondeal - please see screenshot 
+2022-11-23T12:21:12.090: smartfashiondeal - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-23T12:21:27.444: Jyoti Rawat - Assignee changed to Jyoti Rawat ( CS_PREMIUM ) by Jyoti Rawat
+2022-11-23T12:21:38.183: Jyoti Rawat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-23T12:23:51.439: Jyoti Rawat - Assignee changed to Neha Vashisth ( CS_PREMIUM ) from Jyoti Rawat ( CS_PREMIUM ) by Jyoti Rawat
+2022-11-23T12:24:11.495: Neha Vashisth - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-23T12:32:29.125: Neha Vashisth - Can you confirm for which process(like invoice, inventory or something else) you want the logs so that I can generate logs accordingly.
+2022-11-23T12:36:49.698: Neha Vashisth - We request you to kindly provide the information asked in above chat to resolve the issue.
+2022-11-23T12:38:07.849: Neha Vashisth - It seems you are away at the moment, kindly reopen the ticket with asked details and we will help you further.
+2022-11-23T12:38:13.256: Neha Vashisth - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2, NoResponse] by Neha Vashisth
+2022-11-23T12:38:13.512: Neha Vashisth - Resolved by Neha Vashisth
+2022-11-23T13:00:38.873: smartfashiondeal - Reopened by smartfashiondeal
+2022-11-23T13:00:38.873: smartfashiondeal - we want 
+
+Inventory Sync
+Order sync
+catalog Sync 
+2022-11-23T13:00:38.927: smartfashiondeal - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-23T13:00:43.492: Hadiya Tanveer - Assignee changed to Hadiya Tanveer ( CS_PREMIUM ) by Hadiya Tanveer
+2022-11-23T13:00:50.736: Hadiya Tanveer - waiting
+2022-11-23T13:00:51.254: smartfashiondeal - this all logs
+2022-11-23T13:01:19.105: Hadiya Tanveer - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-23T13:01:22.963: Hadiya Tanveer - We are really sorry to keep you waiting. Please allow some time to check
+2022-11-23T13:05:43.960: Hadiya Tanveer - Please allow some time to share that
+2022-11-23T13:09:36.309: Hadiya Tanveer - https://tracelog-in.unicommerce.co.in/files/trace-logs/804f496c-c79d-45a9-92ca-36b730de026b.log
+2022-11-23T13:12:27.235: Hadiya Tanveer - Here are the order sync logs
+2022-11-23T13:13:49.139: Hadiya Tanveer - https://tracelog-in.unicommerce.co.in/files/trace-logs/5338b4e8-fb9d-4d47-fd95-7156149a8743.log
+2022-11-23T13:15:03.456: Hadiya Tanveer - Here are the catalog sync logs
+2022-11-23T13:16:31.985: Hadiya Tanveer - https://tracelog-in.unicommerce.co.in/files/trace-logs/2bf3a111-9a93-4737-b8a1-bbddf4817829.log
+2022-11-23T13:16:54.379: Hadiya Tanveer - Here are the inventory sync logs.
+2022-11-23T13:17:09.216: Hadiya Tanveer - Is there anything else I can help you with?
+2022-11-23T13:22:32.570: Hadiya Tanveer - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-23T13:22:35.296: Hadiya Tanveer - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2, NoResponse] by Hadiya Tanveer
+2022-11-23T13:22:35.415: Hadiya Tanveer - Resolved by Hadiya Tanveer
+2022-11-23T16:14:19.123: smartfashiondeal - Reopened by smartfashiondeal
+2022-11-23T16:14:19.123: smartfashiondeal - THAKU SIR
+2022-11-23T16:14:19.140: smartfashiondeal - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-24T03:31:39.609: Jyoti Rawat - Assignee changed to Jyoti Rawat ( CS_PREMIUM ) by Jyoti Rawat
+2022-11-24T03:31:51.040: Jyoti Rawat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-24T03:32:57.575: Jyoti Rawat - We are closing this ticket now, please re-open in case of any further concern on this. 
+Also we request you to please share your valuable feedback and close this ticket if the issue has been resolved. :)
+2022-11-24T03:33:00.991: Jyoti Rawat - Tags changed  to [CS_PREMIUM, CallBack, Meesho, CatalogSync, Connector, Logs, IssueResolved, P2, NoResponse] by Jyoti Rawat
+2022-11-24T03:33:01.134: Jyoti Rawat - Resolved by Jyoti Rawat
+2022-11-24T03:54:06.508: smartfashiondeal - Closed by smartfashiondeal with feedback 5
+2022-11-24T03:54:06.508: smartfashiondeal - Closed by smartfashiondeal with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK838998
+Transcript: 
+2022-12-28T05:29:33.780: ecomm1@dsignerworld.com - Hi Team
+
+2022-12-28T05:29:33.791: ecomm1@dsignerworld.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-28T05:29:33.795: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-28T07:07:35.348: Sharda Kashyap - Assignee changed to Manoj Tewari ( CS_PREMIUM ) by Sharda Kashyap
+2022-12-28T07:09:28.018: Manoj Tewari - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-28T07:27:39.829: Manoj Tewari - Dear client we apologise for the Inconvenience
+
+Due to Technical Glitch we are not able to revert you on Time
+2022-12-28T07:31:28.052: Manoj Tewari - we tried connecting on - 9833496378
+
+But number not Reachable
+2022-12-28T07:45:12.517: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, Unidesk_isuue, bulk, CallBack, NoResponse] by Manoj Tewari
+2022-12-28T07:45:16.080: Manoj Tewari - Please Do reopen This Ticket for any further issue on this I will be there to assist you further on this
+
+we Really appreciate Your Patience
+2022-12-28T08:10:58.501: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, Unidesk_isuue, bulk, CallBack, NoResponse] by Manoj Tewari
+2022-12-28T08:10:58.584: Manoj Tewari - Resolved by Manoj Tewari
+2022-12-30T05:44:39.136: dwpl - Closed by dwpl with feedback 5
+2022-12-30T05:44:39.136: dwpl - Closed by dwpl with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK808574
+Transcript: 
+2022-10-10T04:09:17.719: lawrencemallick@gmail.com - HI MY GLOW RORD ORDER IN UNVARIFIED I VERIFINED IT SHOWS IN ORDER TAB I DID SYNC BUT NOT COMES IN NEW TAB
+
+2022-10-10T04:09:17.732: lawrencemallick@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-10-10T04:09:17.737: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-10T04:17:02.350: Manoj Tewari - Assignee changed to Manoj Tewari ( CS_PREMIUM ) by Manoj Tewari
+2022-10-10T04:17:11.801: Manoj Tewari - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-10-10T04:17:16.905: Manoj Tewari - please share Order no
+2022-10-10T04:22:45.206: Manoj Tewari - dear client as checked there is No Order in Unverifed tab
+2022-10-10T04:24:13.852: Manoj Tewari - as checked Glowroad Orders are dispatched already on Today's date
+2022-10-10T04:24:23.997: Manoj Tewari - Tags changed  to [CS_PREMIUM, Glowroad, OrderRelated] by Manoj Tewari
+2022-10-10T04:33:06.205: Manoj Tewari - have a good day ahead
+2022-10-10T04:33:10.970: Manoj Tewari - please do click on SMILEY
+2022-10-10T04:33:18.469: Manoj Tewari - THANK YOU
+2022-10-10T04:33:21.711: Manoj Tewari - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-10T04:33:27.873: Manoj Tewari - Tags changed  to [CS_PREMIUM, Glowroad, OrderRelated, P2, IssueResolved] by Manoj Tewari
+2022-10-10T04:33:28.121: Manoj Tewari - Resolved by Manoj Tewari
+2022-10-14T22:00:02.356: Unicommerce Customer Support - Closed Automatically on Sat Oct 15 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK823088
+Transcript: 
+2022-11-22T04:11:37.211: shree.traders01@yahoo.com - Saalvi_Flipkart Channel is not able to login. Please run the catalog sync as we have added a lot of items
+2022-11-22T04:11:37.226: shree.traders01@yahoo.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-22T04:11:37.227: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-22T04:12:03.184: Jyoti Rawat - Assignee changed to Jyoti Rawat ( CS_PREMIUM ) by Jyoti Rawat
+2022-11-22T04:12:11.171: Jyoti Rawat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-22T04:12:27.451: Jyoti Rawat - Dear client we are checking the details, it will take few minutes so i request you to kindly wait
+2022-11-22T04:16:38.525: Jyoti Rawat - connectors are successfully connected now, running catalog sync please wait
+2022-11-22T04:22:25.499: Jyoti Rawat - It will take some time to fetch new products so requesting you to please check after 30 to 40 minutes.
+2022-11-22T04:22:47.582: Jyoti Rawat - We are closing this ticket now, please re-open in case of any further concern on this. 
+Also we request you to please share your valuable feedback and close this ticket if the issue has been resolved. :)
+2022-11-22T04:23:02.335: Jyoti Rawat - Tags changed  to [CS_PREMIUM, Flipkart, Connector, CatalogSync, IssueResolved] by Jyoti Rawat
+2022-11-22T04:23:05.032: Jyoti Rawat - Tags changed  to [CS_PREMIUM, Flipkart, Connector, CatalogSync, IssueResolved] by Jyoti Rawat
+2022-11-22T04:23:05.173: Jyoti Rawat - Resolved by Jyoti Rawat
+2022-11-26T22:00:01.870: Unicommerce Customer Support - Closed Automatically on Sun Nov 27 2022 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK837265
+Transcript: 
+2022-12-24T16:45:54.461: mr.ashraf2ali@gmail.com - B0BQFRVDBP
+2022-12-24T16:45:54.475: mr.ashraf2ali@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-24T16:45:54.479: Unicommerce Customer Support - Hi! We provide customer support between 9 AM and 7 PM. Please wait until one of our service agents gets back to you. We appreciate your patience. 
+
+ Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-24T16:46:14.455: alitraders - out of stock dikha raha hai
+2022-12-24T16:46:28.171: alitraders - amazon ke portel par
+2022-12-25T03:30:53.195: Aishwarya Bapat - Assignee changed to Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-12-25T03:31:02.772: Aishwarya Bapat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-25T03:51:26.134: Aishwarya Bapat - Hello, hum aapka case check kar rahe hain, please online rahiye.
+2022-12-25T03:53:28.711: Aishwarya Bapat - Dear Client, Aap SKU Code B0BQFRVDBP ka fulfillment type confirm kar dijiye ek baar ki vo DEFAULT ya MERCHANT hai ki nahi
+2022-12-25T03:53:56.341: Aishwarya Bapat - Kyuki SKU B0BQFRVDBP mujhe Unlinked Tab me Amazon FBA k liye show ho raha hai
+2022-12-25T04:07:51.254: Aishwarya Bapat - Iska fulfillment type aapko  Amazon ki listing report mein milega
+2022-12-25T04:20:03.608: Aishwarya Bapat - Hum abhi bhi upar chat pe mangi gayi information ka wait kar rahe hain. Aapse request hain ki information de, taki hum aapka issue jaldi resolve kar sakein.
+2022-12-25T04:29:10.637: Aishwarya Bapat - Dear Client, Fulfillment type confirm kar ke kindly ticket re-open kare taaki mei check kar saku.
+2022-12-25T04:29:22.957: Aishwarya Bapat - Hum abhi is ticket to resolve mark kar rahe hain. Agar is men aur koi concern hai tou kripya re-open Karen.
+2022-12-25T04:29:42.577: Aishwarya Bapat - Tags changed  to [CS_PREMIUM, P2, AMAZON_IN, NoResponse] by Aishwarya Bapat
+2022-12-25T04:29:42.775: Aishwarya Bapat - Resolved by Aishwarya Bapat
+2022-12-29T22:00:02.878: Unicommerce Customer Support - Closed Automatically on Fri Dec 30 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK833803
+Transcript: 
+2022-12-16T08:21:00.176: online@toplightbrands.in - Hi Team,
+Invoice number is generated as alternative for Flipkart.
+As per the invoice no. eg. yesterday no. is 85 but today's invoice no. is 87. So kindly review that & share the detail why it is comes like that.
+2022-12-16T08:21:00.185: online@toplightbrands.in - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-16T08:21:00.186: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-16T08:22:25.613: Katyayni Tripathi - Assignee changed to Katyayni Tripathi ( CS_PREMIUM ) by Katyayni Tripathi
+2022-12-16T08:22:32.645: Katyayni Tripathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-16T08:30:07.190: Katyayni Tripathi - Sorry for delay !
+
+Would like to inform you that this invoice code is being fetched from Flipkart panel. There is no role of uniware in generating the invoice code for Flipkart. So, would request you to connect with Flipkart team for the same. Anything else i may help you with ?
+2022-12-16T08:35:13.250: Katyayni Tripathi - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-16T08:35:25.853: Katyayni Tripathi - Tags changed  to [CS_PREMIUM, Flipkart, InvoiceRelated, General_query, IssueResolved] by Katyayni Tripathi
+2022-12-16T08:35:28.036: Katyayni Tripathi - Tags changed  to [CS_PREMIUM, Flipkart, InvoiceRelated, General_query, IssueResolved] by Katyayni Tripathi
+2022-12-16T08:35:28.234: Katyayni Tripathi - Resolved by Katyayni Tripathi
+2022-12-16T10:09:30.184: toplightbrand - Reopened by toplightbrand
+2022-12-16T10:09:30.184: toplightbrand - Hi,
+Could you share any log for that process?
+2022-12-16T10:09:30.197: toplightbrand - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-16T10:09:43.109: Pawan Kumar Sharma - Assignee changed to Pawan Kumar Sharma ( CS_PREMIUM ) by Pawan Kumar Sharma
+2022-12-16T10:09:53.196: Pawan Kumar Sharma - Hello
+2022-12-16T10:15:16.929: Pawan Kumar Sharma - Dear customer, We are working on your concern and we will get back to you in a while.
+2022-12-16T10:23:35.392: Pawan Kumar Sharma - Dear customer, we can share the logs for any specific order number for invoice logs as you desired, can you please confirm for which order logs you required
+2022-12-16T10:45:09.550: Pawan Kumar Sharma - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-12-16T11:02:12.311: Pawan Kumar Sharma - Dear customer, we tried to connect over the call but no one responded on the call after picking up, we request you to please confirm the order number whose invoice logs you required so that we can share with you
+2022-12-16T11:14:23.189: Pawan Kumar Sharma - For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2022-12-16T11:14:29.287: Pawan Kumar Sharma - Tags changed  to [CS_PREMIUM, Flipkart, InvoiceRelated, General_query, IssueResolved, P2, NoResponse] by Pawan Kumar Sharma
+2022-12-16T11:14:32.177: Pawan Kumar Sharma - Tags changed  to [CS_PREMIUM, Flipkart, InvoiceRelated, General_query, IssueResolved, P2, NoResponse] by Pawan Kumar Sharma
+2022-12-16T11:14:32.395: Pawan Kumar Sharma - Resolved by Pawan Kumar Sharma
+2022-12-16T11:43:40.106: toplightbrand - Reopened by toplightbrand
+2022-12-16T11:43:40.106: toplightbrand - Kindly refer the Order number :OD426797170164333100
+2022-12-16T11:43:40.142: toplightbrand - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-16T11:44:02.921: Aishwarya Bapat - Assignee changed to Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-12-16T11:44:10.002: Aishwarya Bapat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-16T11:47:24.026: Aishwarya Bapat - Assignee changed to Pawan Kumar Sharma ( CS_PREMIUM ) from Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-12-16T11:47:50.738: Pawan Kumar Sharma - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-16T11:47:59.717: Pawan Kumar Sharma - sure, Thank you for confirmation
+2022-12-16T12:00:49.325: Pawan Kumar Sharma - Going to generate PDF for invoiceCode FLIPKART-FAHI7D2300000087 and facility Toplight Brands Private Ltd
+2022-12-16T12:01:38.545: Pawan Kumar Sharma - Dear customer, as we have checked we are not getting any errors and invoice is printing directly after fetching from FLIPKART panel, and the order is already dispatched
+2022-12-16T12:02:20.062: Pawan Kumar Sharma - Due to Invoices: Details to be sync from channel and  Label/invoice /Manifest file will be fetched from channel
+2022-12-16T12:10:31.031: Pawan Kumar Sharma - Is there anything else I can help you with the same ?
+2022-12-16T12:30:23.101: Pawan Kumar Sharma - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-16T12:30:36.195: Pawan Kumar Sharma - Tags changed  to [CS_PREMIUM, Flipkart, InvoiceRelated, General_query, IssueResolved, P2, NoResponse, OrderRelated] by Pawan Kumar Sharma
+2022-12-16T12:30:39.722: Pawan Kumar Sharma - Tags changed  to [CS_PREMIUM, Flipkart, InvoiceRelated, General_query, IssueResolved, P2, NoResponse, OrderRelated] by Pawan Kumar Sharma
+2022-12-16T12:30:39.986: Pawan Kumar Sharma - Resolved by Pawan Kumar Sharma
+2022-12-20T22:00:01.713: Unicommerce Customer Support - Closed Automatically on Wed Dec 21 2022 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK819459
+Transcript: 
+2022-11-11T07:20:52.308: hello@varijalifestyles.com - issue in ajio orders
+2022-11-11T07:20:52.321: hello@varijalifestyles.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-11T07:20:52.321: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-11T07:21:41.718: varijalifestyle - we have recive mail form ajio
+2022-11-11T07:21:51.469: varijalifestyle - reganding pending order
+2022-11-11T07:22:09.738: varijalifestyle - but didn't seen order in unicommerce
+2022-11-11T07:22:49.348: varijalifestyle - but i see some orders
+ in pending order
+2022-11-11T07:22:52.833: Prabhat Chaudhary - Assignee changed to Prabhat Chaudhary ( CS_PREMIUM ) by Prabhat Chaudhary
+2022-11-11T07:22:59.955: Prabhat Chaudhary - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-11T07:23:03.891: varijalifestyle - so how to proceed these orders
+2022-11-11T07:23:33.098: Prabhat Chaudhary - Please share the order id .
+2022-11-11T07:23:39.821: Prabhat Chaudhary - So we can check.
+2022-11-11T07:23:53.102: varijalifestyle - 4075898091
+2022-11-11T07:24:00.369: Prabhat Chaudhary - Checking..
+2022-11-11T07:25:57.860: Prabhat Chaudhary - Dear customer, as we've checked the in your order one item is unfulfillable, in order to process them please update the inventory of that sku.
+2022-11-11T07:29:33.890: Prabhat Chaudhary - Then you need to process this order through Creating the picklist.
+2022-11-11T07:29:50.934: Prabhat Chaudhary - Tags changed  to [CS_PREMIUM, Ajio, orderprocessing] by Prabhat Chaudhary
+2022-11-11T07:30:12.757: Prabhat Chaudhary - http://support.unicommerce.com/index.php/knowledge-base/ajio-b2b-order-processing/
+2022-11-11T07:30:38.453: Prabhat Chaudhary - You can also refer the above article link for ajio order processing.
+2022-11-11T07:30:47.599: Prabhat Chaudhary - Tags changed  to [CS_PREMIUM, Ajio, orderprocessing, Unfulfillable] by Prabhat Chaudhary
+2022-11-11T07:54:05.431: Prabhat Chaudhary - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-11T07:54:18.231: Prabhat Chaudhary - Tags changed  to [CS_PREMIUM, Ajio, orderprocessing, Unfulfillable, IssueResolved] by Prabhat Chaudhary
+2022-11-11T07:54:18.380: Prabhat Chaudhary - Resolved by Prabhat Chaudhary
+2022-11-11T12:21:20.490: varijalifestyle - Reopened by varijalifestyle
+2022-11-11T12:21:20.490: varijalifestyle - sorry 
+but 
+2022-11-11T12:21:20.514: varijalifestyle - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-11T12:22:58.214: Manoj Tewari - Assignee changed to Manoj Tewari ( CS_PREMIUM ) by Manoj Tewari
+2022-11-11T12:23:30.657: Manoj Tewari - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-11T12:24:02.963: varijalifestyle - sorry i didn't understand
+2022-11-11T12:25:20.683: varijalifestyle - this is screen shot where is show ajio pendings orders
+2022-11-11T12:25:40.312: Manoj Tewari - http://support.unicommerce.com/index.php/knowledge-base/ajio-b2b-order-processing/
+2022-11-11T12:25:43.127: varijalifestyle - but i can't procced
+2022-11-11T12:26:01.721: Manoj Tewari - dear client Please follow above support article for Processing Ajio Order
+2022-11-11T12:27:53.680: varijalifestyle - i follow the these steps but someting wrong
+2022-11-11T12:28:12.078: Manoj Tewari - Please share the screenshot of the error that you are getting
+2022-11-11T12:28:50.128: Manoj Tewari - Please share anydesk ID
+2022-11-11T12:28:59.900: varijalifestyle - ok
+2022-11-11T12:29:12.526: Manoj Tewari - Tags changed  to [CS_PREMIUM, Ajio, orderprocessing, Unfulfillable, IssueResolved, P2, AnyDesk] by Manoj Tewari
+2022-11-11T12:29:27.017: varijalifestyle - 852 509 679
+2022-11-11T12:32:26.216: Manoj Tewari - as discussed on anydesk Now Order is Processed and this is how you need to Process the Orders
+2022-11-11T12:32:33: Manoj Tewari - Tags changed  to [CS_PREMIUM, Ajio, orderprocessing, Unfulfillable, IssueResolved, P2, AnyDesk] by Manoj Tewari
+2022-11-11T12:32:54.674: Manoj Tewari - have a good day
+2022-11-11T12:32:57.278: Manoj Tewari - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-11T12:33:00.299: Manoj Tewari - Tags changed  to [CS_PREMIUM, Ajio, orderprocessing, Unfulfillable, IssueResolved, P2, AnyDesk] by Manoj Tewari
+2022-11-11T12:33:00.500: Manoj Tewari - Resolved by Manoj Tewari
+2022-11-11T12:33:05.228: varijalifestyle - Closed by varijalifestyle with feedback 5
+2022-11-11T12:33:05.228: varijalifestyle - Closed by varijalifestyle with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK822478
+Transcript: 
+2022-11-19T11:22:04.920: info@trstones.store - add details in invoice
+
+2022-11-19T11:22:04.943: info@trstones.store - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-19T11:22:04.947: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-19T11:25:26.606: Aishwarya Bapat - Assignee changed to Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-11-19T11:25:33.953: Aishwarya Bapat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-19T11:25:44.922: trstones - ok
+2022-11-19T11:25:50.269: Aishwarya Bapat - Please let me know what details you need to add on invoice
+2022-11-19T11:26:00.060: trstones - PAN
+2022-11-19T11:26:24.957: trstones - Add
+PAN 
+AD Code
+IEC
+GSTIN codes
+2022-11-19T11:27:48.217: trstones - are you there?
+2022-11-19T11:29:33.354: trstones - hi its urgent
+2022-11-19T11:29:45.728: Aishwarya Bapat - Dear as checked the feasibility we can add GST number on invoice
+2022-11-19T11:30:23.947: trstones - please call
+2022-11-19T11:30:35.666: Aishwarya Bapat - We try our best to address your issues on chat itself but if there is any complex issue then we will definitely give you a call back to ensure that you have the best experience with us Requesting you to please allow us to check the issue and then will take action accordingly.
+2022-11-19T11:31:12.954: trstones - please call back
+2022-11-19T11:33:55.399: trstones - ?
+2022-11-19T11:35:21.451: Aishwarya Bapat - WIP Client 
+Kindly assist accordingly
+2022-11-19T11:35:36.515: Aishwarya Bapat - Tags changed  to [CS_PREMIUM, GoLive] by Aishwarya Bapat
+2022-11-19T11:35:51.394: Aishwarya Bapat - Tags changed  to [CS_PREMIUM, GoLive, InvoiceRelated, Template] by Aishwarya Bapat
+2022-11-19T11:35:54.911: trstones - ?
+2022-11-19T11:35:57.363: Aishwarya Bapat - Dear Client i am forwarding the ticket to my respective team we will get back to you with an update
+Meanwhile kindly be patient
+2022-11-19T11:36:04.798: Aishwarya Bapat - Assignee changed to UNASSIGNED ( ONBOARDING_SMB ) from Aishwarya Bapat ( CS_PREMIUM ) by Aishwarya Bapat
+2022-11-19T11:36:09.144: trstones - ok
+2022-11-19T11:45:26.640: trstones - not able to edit invoice template
+2022-11-20T11:28:05.322: trstones - any updates?
+2022-11-21T04:43:56.843: Charu Gupta - Assignee changed to Charu Gupta ( ONBOARDING_SMB ) by Charu Gupta
+2022-11-21T04:48:06.591: Charu Gupta - Assignee changed to Pratiksha Kumari ( ONBOARDING_SMB ) from Charu Gupta ( ONBOARDING_SMB ) by Charu Gupta
+2022-11-21T07:12:37.619: trstones - is anyone there?
+2022-11-21T12:44:06.753: Pratiksha Kumari - hello sir
+2022-11-21T12:45:02.270: Pratiksha Kumari - As discussed, team is checking so once get response then will update you
+2022-11-21T12:45:41.683: Pratiksha Kumari - Tags changed  to [CS_PREMIUM, GoLive, InvoiceRelated, Template, ONBOARDING_SMB, P2, IssueResolved] by Pratiksha Kumari
+2022-11-21T12:45:41.838: Pratiksha Kumari - Resolved by Pratiksha Kumari
+2022-11-25T12:14:09.549: trstones - Reopened by trstones
+2022-11-25T12:14:09.549: trstones - issue not resolved
+
+2022-11-25T12:14:09.562: trstones - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-25T12:14:33.976: trstones - when can i expect to resolve the issue
+2022-11-28T04:43:14.948: Charu Gupta - Assignee changed to Charu Gupta ( ONBOARDING_SMB ) by Charu Gupta
+2022-11-28T05:01:57.969: Charu Gupta - Assignee changed to Pratiksha Kumari ( ONBOARDING_SMB ) from Charu Gupta ( ONBOARDING_SMB ) by Charu Gupta
+2022-11-28T11:05:24.047: Pratiksha Kumari - Hello Sir
+2022-11-28T11:05:54.218: Pratiksha Kumari - As checked with our concern team and they said that it will take time
+2022-11-29T08:58:53.134: Pratiksha Kumari - Hello Sir
+2022-11-29T08:59:44.866: Pratiksha Kumari - As discussed, Now value is showing in invoice and for header , inform to concern team and they are checking once get any update then let you know on mail
+2022-11-29T08:59:54.150: Pratiksha Kumari - Tags changed  to [CS_PREMIUM, GoLive, InvoiceRelated, Template, ONBOARDING_SMB, P2, P1, IssueResolved] by Pratiksha Kumari
+2022-11-29T08:59:54.326: Pratiksha Kumari - Resolved by Pratiksha Kumari
+2022-12-03T22:00:04.929: Unicommerce Customer Support - Closed Automatically on Sun Dec 04 2022 03:30:04 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK838737
+Transcript: 
+2022-12-27T13:40:11.688: arun.tyagi - hi testing
+2022-12-27T13:40:11.706: Unicommerce Customer Support - Hi! We provide customer support between 9 AM and 7 PM. Please wait until one of our service agents gets back to you. We appreciate your patience. 
+
+ Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-28T06:37:08.678: shanib.khan - Assigned to shanib.khan ( TECH_SUPPORT) by shanib.khan
+2022-12-28T17:06:51.348: Suyash - Assignee changed to Suyash Maskara ( TAM ) from shanib.khan ( TECH_SUPPORT ) by Suyash Maskara
+2022-12-28T17:06:56.885: Suyash - Tags changed  to [P2, TECH_SUPPORT, TAM] by Suyash Maskara
+2022-12-28T17:06:56.971: Suyash - Resolved by Suyash Maskara
+2023-01-01T22:00:02.273: Unicommerce Customer Support - Closed Automatically on Mon Jan 02 2023 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK807394
+Transcript: 
+2022-10-06T05:10:09.907: info@aestheticnation.co.in - Unable to get scan option in PK135&136
+2022-10-06T05:10:09.946: info@aestheticnation.co.in - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-10-06T05:10:09.947: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-06T05:10:23.256: Rateesh Tripathi - Assignee changed to Rateesh Tripathi ( CS_PREMIUM ) by Rateesh Tripathi
+2022-10-06T05:10:36.272: Rateesh Tripathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-10-06T05:10:47.735: Rateesh Tripathi - Checking the issue from our end.
+2022-10-06T05:12:13.368: Rateesh Tripathi - Issue is resolved now.
+2022-10-06T05:12:20.287: Rateesh Tripathi - Tags changed  to [CS_PREMIUM, Traceability, IssueResolved] by Rateesh Tripathi
+2022-10-06T05:12:27.133: Rateesh Tripathi - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-06T05:13:04.253: Rateesh Tripathi - "Thank you and have a good day!
+
+STAY SAFE & STAY HEALTHY
+
+Just for today, smile a little more."
+2022-10-06T05:13:06.237: Rateesh Tripathi - Tags changed  to [CS_PREMIUM, Traceability, IssueResolved] by Rateesh Tripathi
+2022-10-06T05:13:06.361: Rateesh Tripathi - Resolved by Rateesh Tripathi
+2022-10-06T05:44:51.083: Nihar Madiye - Closed by Nihar Madiye with feedback 5
+2022-10-06T05:44:51.083: Nihar Madiye - Closed by Nihar Madiye with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK824660
+Transcript: 
+2022-11-25T12:35:35.791: nirdosh@amydus.com - Hi Team Please add new channel  Stylenook
+username: BEGI
+password: efef97e145b0
+2022-11-25T12:35:35.812: nirdosh@amydus.com - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-11-25T12:35:35.818: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-25T12:36:04.520: Itishree Sarkar - Hello, we will help you with this ticket and thank you for contacting our chat support. Kindly be online while we are replying. 
+Please wait for some time we are checking the issue.
+2022-11-25T12:36:46.929: Nirdosh - oky
+2022-11-25T12:42:35.857: Nirdosh - hlo
+2022-11-25T13:01:00.739: Shubham Verma - Assignee changed to Shubham Verma ( CUSTOMER_SUPPORT_L1 ) by Shubham Verma
+2022-11-25T13:01:35.826: Shubham Verma - HI
+2022-11-25T13:01:46.364: Shubham Verma - Good Evening! Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-25T13:02:03.245: Shubham Verma - I apologize for the delay!
+2022-11-25T13:02:39.137: Shubham Verma - I am doing the needful for you
+2022-11-25T13:05:32.448: Shubham Verma - Thank you for staying connected.
+2022-11-25T13:06:00.197: Shubham Verma - Dear Client, I have added the channel : Stylenook, with the shared  credentials
+2022-11-25T13:06:05.708: Shubham Verma - Please verify the same.
+2022-11-25T13:06:23.635: Shubham Verma - I am sharing the article for your reference :
+
+http://support.unicommerce.com/index.php/knowledge-base/integration-with-stylenook/
+2022-11-25T13:06:30.167: Shubham Verma - Any further help ?
+2022-11-25T13:06:39.060: Shubham Verma - Tags changed  to [CUSTOMER_SUPPORT_L1, stylenook, Integration] by Shubham Verma
+2022-11-25T13:08:14.826: Shubham Verma - As of now, I am marking this ticket as resolved. 
+Thank you! Have a wonderful Evening!
+2022-11-25T13:08:20.020: Shubham Verma - Tags changed  to [CUSTOMER_SUPPORT_L1, stylenook, Integration, IssueResolved] by Shubham Verma
+2022-11-25T13:08:20.213: Shubham Verma - Resolved by Shubham Verma
+2022-11-25T13:09:35.209: Nirdosh - Reopened by Nirdosh
+2022-11-25T13:09:35.209: Nirdosh - can you share 
+screenshot 
+2022-11-25T13:09:35.229: Nirdosh - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-11-25T13:09:45.572: Nirdosh - can u share screenshot
+2022-11-25T13:10:02.718: Nirdosh - because am not able to see channel created
+2022-11-25T13:11:12.675: Nirdosh - hi are u there
+2022-11-25T13:14:48.278: Nirdosh - ????
+2022-11-25T13:14:56.026: Itishree Sarkar - Hello, we will help you with this ticket and thank you for contacting our chat support. Kindly be online while we are replying. 
+Please wait for some time we are checking the issue.
+2022-11-25T13:15:18.333: Itishree Sarkar - Assignee changed to Shubham Verma ( CUSTOMER_SUPPORT_L1 ) by Itishree Sarkar
+2022-11-25T13:16:31.330: Nirdosh - ok
+2022-11-25T13:17:37.815: Shubham Verma - Hi
+2022-11-25T13:17:44.294: Shubham Verma - Good Evening! Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-25T13:18:47.424: Nirdosh - oky
+2022-11-25T13:20:20.176: Nirdosh - please sync catalogue and inventory with Stylenook
+2022-11-25T13:20:44.324: Shubham Verma - I am sharing the screenshot for your reference
+2022-11-25T13:22:29.936: Shubham Verma - Please find the attached screenshotf or your reference
+2022-11-25T13:22:34.314: Nirdosh - please sync catalogue and inventory with Stylenook
+2022-11-25T13:22:44.508: Shubham Verma - Catalog has already been synced
+2022-11-25T13:23:14.900: Shubham Verma - Please do  the mapping by following the below mentioned article :
+
+http://support.unicommerce.com/index.php/knowledge-base/q-how-to-link-skus-in-bulk/
+2022-11-25T13:23:22.985: Shubham Verma - Then trigger the inevntory sync
+2022-11-25T13:23:34.234: Shubham Verma - *inventory
+2022-11-25T13:23:37.714: Shubham Verma - Any further help ?
+2022-11-25T13:27:16.957: Nirdosh - no thanks
+2022-11-25T13:28:23.706: Shubham Verma - You are welcome!
+2022-11-25T13:28:25.685: Shubham Verma - As of now, I am marking this ticket as resolved. 
+Thank you! Have a wonderful Evening!
+2022-11-25T13:28:58.281: Shubham Verma - Tags changed  to [CUSTOMER_SUPPORT_L1, stylenook, Integration, IssueResolved, InventorySync, MappingListing] by Shubham Verma
+2022-11-25T13:28:58.476: Shubham Verma - Resolved by Shubham Verma
+2022-11-29T22:00:02.162: Unicommerce Customer Support - Closed Automatically on Wed Nov 30 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK829861
+Transcript: 
+2022-12-07T06:07:36.207: anand@artstreet.in - Our unfulfillable order is not being fulfilled
+2022-12-07T06:07:36.218: anand@artstreet.in - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-12-07T06:07:36.219: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-07T06:08:39.894: Priti Kumari - Hello, we will help you with this ticket, and thank you for contacting our chat support. 
+
+We apologize for the inconvenience multiple clients are facing this issue and our tech team is working on it please wait once it is resolved we will update you on the same ticket.
+2022-12-07T06:08:54.547: Priti Kumari - Tags changed  to [CUSTOMER_SUPPORT_L1, Server_Issue, NotedIssue, bulk] by Priti Kumari
+2022-12-07T06:09:08.076: anand - ok
+2022-12-07T06:09:11.324: Priti Kumari - Assignee changed to Itishree Sarkar ( CUSTOMER_SUPPORT_L1 ) by Priti Kumari
+2022-12-07T08:52:54.260: Priti Kumari - We apologize for the inconvenience you had and thank you
+for your patience and cooperation.
+2022-12-07T08:53:03.293: Priti Kumari - We have checked, and issues have been fixed, kindly check and verify at your
+end, if you are still facing issue please raise it with us and we will
+prioritize the same from our side.
+2022-12-07T08:53:15.885: Priti Kumari - Thank you for using our live chat support. We are now closing this ticket. If you have any more issues, please do let us know.
+2022-12-07T08:53:26.516: Priti Kumari - Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-07T08:53:30.086: Priti Kumari - Have a great day.
+2022-12-07T08:53:58.980: Priti Kumari - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, ManifestRelated, ImportExportRelated, OrderSync, Server_Issue, NotedIssue, bulk, IssueResolved] by Priti Kumari
+2022-12-07T08:53:59.093: Priti Kumari - Resolved by Priti Kumari
+2022-12-08T05:48:35.242: saurabh sharma - Closed by saurabh sharma with feedback 4
+2022-12-08T05:48:35.242: saurabh sharma - Closed by saurabh sharma with feedback 4
+
+
+****************************************************************************************************
+
+Code: TK825764
+Transcript: 
+2022-11-29T04:52:46.823: nikhil@adamo.in - Hi,
+Hamara ek amzon easyship ka order uniware pr show nhi ho rha
+order id- 405-1399916-7626706
+please eese check kijiye.
+
+2022-11-29T04:52:46.851: nikhil@adamo.in - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-29T04:52:46.859: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-29T04:54:49.368: Manoj Tewari - Assignee changed to Manoj Tewari ( CS_PREMIUM ) by Manoj Tewari
+2022-11-29T04:55:01.586: Manoj Tewari - Hello, hum aapka case check kar rahe hain, please online rahiye.
+2022-11-29T04:56:42.800: Manoj Tewari - Tags changed  to [CS_PREMIUM, amazon_easyship, OrderRelated] by Manoj Tewari
+2022-11-29T04:57:55.180: Manoj Tewari - dear client amazon easyship channel k case m Order sync available nahi hota h 
+
+Amazon Directly Orders ko Push krta h Uniware pr and jab amazon k end se Order Push kiye jate h then Vo Orders apko Uniware pr milte h
+2022-11-29T04:58:56.747: Manoj Tewari - Hum apne end se check kr rhe h amazon se Order ko Push kiya h ya nahi
+2022-11-29T04:58:59.786: Manoj Tewari - Please wait
+2022-11-29T04:59:05.029: Manoj Tewari - Tags changed  to [CS_PREMIUM, amazon_easyship, OrderRelated] by Manoj Tewari
+2022-11-29T04:59:22.572: Manoj Tewari - {
+  "cursor": "",
+  "orders": []
+}
+2022-11-29T05:00:09.311: Manoj Tewari - dear client Humne Check kiya h ye Order amazon k end se abhi Uniware par Push nahi hua h 
+
+Hume jo Response Mila h amazon se - "orders": []
+2022-11-29T05:01:00.270: Nikhil - yee order kb tk uniware pr show hoga?
+2022-11-29T05:02:07.151: Manoj Tewari - dear client ye Totally Depend krta h amazon jese he Order ko Push krega 
+
+Order Uniware pr reflect ho jaega
+2022-11-29T05:06:23.316: Manoj Tewari - Confirmed with Rajneesh Sir
+2022-11-29T05:07:21.670: Manoj Tewari - dear client Please Note that agar is Order Item ki Inventory manually adjust ki gyi h amazon k panel se toh ye Order Uniware pr fetch nahi ho paega
+2022-11-29T05:08:10.559: Manoj Tewari - as per amazon Policy agar aap kisi SKU ki Inventory ko manually adjust krte h amazon seller panel se to Vo Order uniware pr fetch nahi ho paenge
+2022-11-29T05:09:05.724: Manoj Tewari - aise Orders apko seller panel se he process krne honge
+2022-11-29T05:09:31.534: Manoj Tewari - Tags changed  to [CS_PREMIUM, amazon_easyship, OrderRelated, InventoryAdjustment] by Manoj Tewari
+2022-11-29T05:09:42.048: Manoj Tewari - Tags changed  to [CS_PREMIUM, amazon_easyship, OrderRelated, InventoryAdjustment] by Manoj Tewari
+2022-11-29T05:14:13.473: Manoj Tewari - Hum abhi is ticket to resolve mark kar rahe hain.
+ Agar is mainn aur koi concern hai toh Please Is Ticket ko  re-open Kijiyega
+2022-11-29T05:14:19.931: Manoj Tewari - Tags changed  to [CS_PREMIUM, amazon_easyship, OrderRelated, InventoryAdjustment, IssueResolved] by Manoj Tewari
+2022-11-29T05:14:20.101: Manoj Tewari - Resolved by Manoj Tewari
+2022-11-30T05:30:06.202: Nikhil - Closed by Nikhil with feedback 5
+2022-11-30T05:30:06.202: Nikhil - Closed by Nikhil with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK843594
+Transcript: 
+2023-01-06T12:54:43.697: Shalini Sharma - Tenant : neemanspvtltd
+Order ID : 0GQ1G06JG2X
+Unable to allocate courier on mentioned reverse pickup RP1880.
+
+Also, able to find the same under reverse pickup window under ALL. 
+But it is an old RP created on 21 Aug 2022, 17:50
+Sharing screenshot for the same. 
+2023-01-06T12:54:43.708: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2023-01-06T19:54:46.746: Vinodkumar Verma - Assigned to Vinodkumar Verma ( TAM) by Vinodkumar Verma
+2023-01-06T19:55:48.902: Vinodkumar Verma - Return is created in AMAZON_FLEX_XSTF facility.
+Try to assign the courier for reverse pickup from here.
+Or cancel the reverse pickup and create in the correct facility and check.
+2023-01-06T19:55:59.519: Vinodkumar Verma - Tags changed  to [P2, OPS BUCKET: NO_TECH_EFFORT] by Vinodkumar Verma
+2023-01-06T19:56:04.559: Vinodkumar Verma - Assignee changed to Shalini Sharma ( ENTERPRISE ) from Vinodkumar Verma ( ENTERPRISE ) by Vinodkumar Verma
+2023-01-11T07:23:05.177: Shalini Sharma - Thanks
+2023-01-11T07:23:08.359: Shalini Sharma - Vinod
+2023-01-11T07:23:17.103: Shalini Sharma - Tags changed  to [P2, OPS BUCKET: NO_TECH_EFFORT, ENTERPRISE, IssueResolved] by Shalini Sharma
+2023-01-11T07:23:17.195: Shalini Sharma - Resolved by Shalini Sharma
+2023-01-15T22:00:06.733: Unicommerce Customer Support - Closed Automatically on Mon Jan 16 2023 03:30:06 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK814540
+Transcript: 
+2022-10-28T12:20:36.100: sjoseph@doulton.com - How to edit inventory
+2022-10-28T12:20:36.168: sjoseph@doulton.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-10-28T12:20:36.172: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-28T12:21:16.590: Richard Ekka - Assignee changed to Richard Ekka ( CS_PREMIUM ) by Richard Ekka
+2022-10-28T12:21:25.947: Richard Ekka - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-10-28T12:21:36.224: doulton - ok
+2022-10-28T12:21:53.765: Richard Ekka - you want to adjust the inventory?
+2022-10-28T12:22:18.984: doulton - Yes, initially I have updated 100 qty each SKU, need to change that
+2022-10-28T12:23:43.064: Richard Ekka - http://support.unicommerce.com/index.php/knowledge-base/inventory-adjustments/
+Here is the support article to adjust the inventory
+2022-10-28T12:24:44.168: doulton - This is for already existing SKUs right?
+2022-10-28T12:25:00.640: Richard Ekka - Yes.
+2022-10-28T12:25:08.595: doulton - Okay
+2022-10-28T12:25:51.286: Richard Ekka - In this file you can mention the adjustment type as:
+
+ADD for addition of inventory,
+
+REMOVE for removal,
+
+TRANSFER for transferring inventory and
+
+REPLACE for the replacement of stocks.
+2022-10-28T12:28:46.978: doulton - to bulk upload, which is the import button? top right most?
+2022-10-28T12:29:37.824: doulton - Okay got it
+2022-10-28T12:30:02.817: Richard Ekka - Ok.
+2022-10-28T12:30:16.203: Richard Ekka - I hope your query is cleared now.
+2022-10-28T12:30:26.879: doulton - yes thank you
+2022-10-28T12:32:46.203: Richard Ekka - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-28T12:33:02.876: Richard Ekka - Tags changed  to [CS_PREMIUM, InventoryAdjustment, IssueResolved] by Richard Ekka
+2022-10-28T12:33:04.916: Richard Ekka - Tags changed  to [CS_PREMIUM, InventoryAdjustment, IssueResolved] by Richard Ekka
+2022-10-28T12:33:05.038: Richard Ekka - Resolved by Richard Ekka
+2022-11-01T22:00:02.230: Unicommerce Customer Support - Closed Automatically on Wed Nov 02 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK835041
+Transcript: 
+2022-12-19T11:54:18.191: surajlittletags@gmail.com - Quantity is not updating in Uniware when I sync quantity
+2022-12-19T11:54:18.202: surajlittletags@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-19T11:54:18.203: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-19T11:54:23.445: Suraj - Quantity is not updating in Uniware when I sync quantity
+2022-12-19T11:54:27.860: Pawan Kumar Sharma - Assignee changed to Pawan Kumar Sharma ( CS_PREMIUM ) by Pawan Kumar Sharma
+2022-12-19T11:54:34.524: Pawan Kumar Sharma - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-19T11:54:51.560: Pawan Kumar Sharma - Dear Customer, We are sorry for the inconvenience caused to you, we are looking into this matter.
+2022-12-19T11:54:58.253: Pawan Kumar Sharma - We need more information to proceed with your query. please share the screenshot, error message etc. for us to debug the issue.
+2022-12-19T11:55:25.784: Suraj - Please call me 8851316146
+2022-12-19T11:55:58.876: Pawan Kumar Sharma - We try our best to address your issues on chat itself but if there is any complex issue then we will definitely give you a call back to ensure that you have the best experience with us Requesting you to please allow us to check the issue and then will take action accordingly.
+2022-12-19T11:56:56.253: Pawan Kumar Sharma - We request you to please elaborate your query so that we will assist you further for the same
+2022-12-19T11:57:45.976: Pawan Kumar Sharma - TK834900 Same issue raised
+2022-12-19T12:00:18.483: Suraj - I'm updating product inventory but the products are not syncing
+2022-12-19T12:01:32.909: Pawan Kumar Sharma - Can you please share the SKU whose inventory you have updated and on which channel it is not updating
+2022-12-19T12:06:27.930: Pawan Kumar Sharma - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-12-19T12:13:56.458: Pawan Kumar Sharma - For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2022-12-19T12:14:22.155: Pawan Kumar Sharma - Tags changed  to [CS_PREMIUM, InventoryRelated, NoResponse] by Pawan Kumar Sharma
+2022-12-19T12:14:25.426: Pawan Kumar Sharma - Tags changed  to [CS_PREMIUM, InventoryRelated, NoResponse] by Pawan Kumar Sharma
+2022-12-19T12:14:25.568: Pawan Kumar Sharma - Resolved by Pawan Kumar Sharma
+2022-12-23T22:00:02.197: Unicommerce Customer Support - Closed Automatically on Sat Dec 24 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK831393
+Transcript: 
+2022-12-10T04:09:12.138: cotlercreations@gmail.com - flipkart manifest not close
+2022-12-10T04:09:12.171: cotlercreations@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-10T04:09:12.178: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-10T04:09:56.965: Neha Vashisth - Assignee changed to Neha Vashisth ( CS_PREMIUM ) by Neha Vashisth
+2022-12-10T04:10:05.432: Neha Vashisth - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-10T04:10:30.676: Neha Vashisth - Dear Client, please share the manifest number with which you are facing an issue.
+2022-12-10T04:20:11.324: Neha Vashisth - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-12-10T04:29:32.705: Neha Vashisth - We have still not received the requested information and it would be difficult for us to resolve your issue without the required info. For the time being, we are closing this chat thread from our end. Whenever you are available and see this message, please reopen the ticket with required information and we will resolve your issue.
+2022-12-10T04:29:38.751: Neha Vashisth - Tags changed  to [CS_PREMIUM, NoResponse] by Neha Vashisth
+2022-12-10T04:29:41.918: Neha Vashisth - Tags changed  to [CS_PREMIUM, NoResponse] by Neha Vashisth
+2022-12-10T04:29:42.070: Neha Vashisth - Resolved by Neha Vashisth
+2022-12-10T04:39:54.438: piroh - Closed by piroh with feedback 3
+2022-12-10T04:39:54.438: piroh - Closed by piroh with feedback 3
+
+
+****************************************************************************************************
+
+Code: TK841466
+Transcript: 
+2023-01-03T08:23:51.921: care@abitibella.com - Amazon ke order uniware me show nahi kar rahe he order id 403-5664570-2957141
+403-0582267-7170735
+2023-01-03T08:23:51.931: care@abitibella.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2023-01-03T08:23:51.934: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2023-01-03T08:23:59.540: Kartik Kumar - Assignee changed to Kartik Kumar ( CS_PREMIUM ) by Kartik Kumar
+2023-01-03T08:24:07.473: Kartik Kumar - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2023-01-03T08:24:57.962: Mine4Nine - Hindi
+2023-01-03T08:31:09.417: Kartik Kumar - Dear Client Uniware amazon in se order pull krta hai Unshipped status mai , apne order  ko channel se process  kr liya is isliye vo uniware mai show nai ho rahe hai  .
+2023-01-03T08:32:47.517: Kartik Kumar - Or jb order unshipped status mai hoga to apne turant next step kr lia hoga , ya  to connector broke hoga , kuch bhi reason ho sakta hai.
+2023-01-03T08:34:05.793: Kartik Kumar - app apne order ko channel se hi process kr lijiye  .
+2023-01-03T08:34:24.294: Kartik Kumar - Hum abhi is ticket to resolve mark kar rahe hain. Agar is men aur koi concern hai tou kripya re-open Karen. Agar issue resolve ho gya hai to, please feedback dekar ticket close kar dein.
+2023-01-03T08:34:43.659: Kartik Kumar - Tags changed  to [CS_PREMIUM, OrderRelated, AMAZON_IN, IssueResolved] by Kartik Kumar
+2023-01-03T08:34:46.341: Kartik Kumar - Tags changed  to [CS_PREMIUM, OrderRelated, AMAZON_IN, IssueResolved] by Kartik Kumar
+2023-01-03T08:34:46.489: Kartik Kumar - Resolved by Kartik Kumar
+2023-01-07T22:00:02.328: Unicommerce Customer Support - Closed Automatically on Sun Jan 08 2023 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK831047
+Transcript: 
+2022-12-09T05:14:25.951: manish@adamo.in - Hello,
+This order not being process. Please check it.
+S173536532
+S173536886
+S173550969
+S173554960
+S173678404
+
+2022-12-09T05:14:25.962: manish@adamo.in - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-12-09T05:14:25.963: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-09T05:15:34.141: Monalisha Singh - Assignee changed to Monalisha Singh ( CS_PREMIUM ) by Monalisha Singh
+2022-12-09T05:15:43.255: Monalisha Singh - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-09T05:21:20.884: Monalisha Singh - Dear Client as given order is showing in cancelled state.
+2022-12-09T05:27:37.558: Manish - This order is not process.
+S173678404
+2022-12-09T05:28:19.787: Monalisha Singh - Label and invoice is generated for the order kindly, check.
+2022-12-09T05:28:30.876: Monalisha Singh - Tags changed  to [CS_PREMIUM, LabelRelated, InvoiceRelated] by Monalisha Singh
+2022-12-09T05:28:48.553: Monalisha Singh - Tags changed  to [CS_PREMIUM, LabelRelated, InvoiceRelated, AJIO, IssueResolved] by Monalisha Singh
+2022-12-09T05:28:55.434: Monalisha Singh - Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-09T05:29:10.055: Monalisha Singh - Above all order are in cancelled state.
+2022-12-09T05:29:13.514: Monalisha Singh - Tags changed  to [CS_PREMIUM, LabelRelated, InvoiceRelated, AJIO, IssueResolved] by Monalisha Singh
+2022-12-09T05:29:13.630: Monalisha Singh - Resolved by Monalisha Singh
+2022-12-13T22:00:01.530: Unicommerce Customer Support - Closed Automatically on Wed Dec 14 2022 03:30:01 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK814556
+Transcript: 
+2022-10-28T13:01:43.085: order@gmfabrics.com - Hi Team,
+Inventory sync not happening for Myntra. Please check
+ 
+2022-10-28T13:01:43.099: order@gmfabrics.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-10-28T13:01:43.100: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-28T13:13:12.441: Ankur Rawat - Assignee changed to Ankur Rawat ( CS_PREMIUM ) by Ankur Rawat
+2022-10-28T13:13:20.683: Ankur Rawat - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-10-28T13:13:34.614: Ankur Rawat - Help us with the example sku
+2022-10-28T13:23:41.418: Ankur Rawat - Kindly provide the above information
+2022-10-28T13:29:05.580: Ankur Rawat - it seems you are provide the above information and reopen he ticket with that
+2022-10-28T13:43:40.368: Ankur Rawat - Tags changed  to [CS_PREMIUM, P2, NoResponse] by Ankur Rawat
+2022-10-28T13:43:40.707: Ankur Rawat - Resolved by Ankur Rawat
+2022-11-01T22:00:02.230: Unicommerce Customer Support - Closed Automatically on Wed Nov 02 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK837881
+Transcript: 
+2022-12-27T05:54:03.137: moondrasid@gmail.com - flipkart connectors are broken
+2022-12-27T05:54:03.149: moondrasid@gmail.com - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-12-27T05:54:03.149: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-27T05:59:29.612: misskurtijaipur - hello
+2022-12-27T07:38:59.423: misskurtijaipur - hello
+2022-12-27T15:49:11.644: Priti Kumari - connected
+2022-12-28T06:34:46.643: Priti Kumari - Assignee changed to Priti Kumari ( CUSTOMER_SUPPORT_L1 ) by Priti Kumari
+2022-12-28T06:35:30.318: Priti Kumari - Hello!
+2022-12-28T06:35:37.852: Priti Kumari - We apologize for the delay in reveting you back
+2022-12-28T06:35:41.369: Priti Kumari - reverting*
+2022-12-28T06:35:46.305: Priti Kumari - TK837771 The issue that you have just logged is already marked with us in reference to above original ticket. We are currently working on it. Requesting you to kindly close this ticket and we will update you on original ticket for the same.
+2022-12-28T06:35:55.300: Priti Kumari - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, DUPLICATE, IssueResolved] by Priti Kumari
+2022-12-28T06:35:55.434: Priti Kumari - Resolved by Priti Kumari
+2023-01-01T22:00:02.273: Unicommerce Customer Support - Closed Automatically on Mon Jan 02 2023 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK810157
+Transcript: 
+2022-10-13T08:00:45.837: admin@offduty.in - not able to edit shelf code
+2022-10-13T08:00:45.850: admin@offduty.in - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-10-13T08:00:45.851: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-13T08:02:29.241: Ausaf Ansari - Assignee changed to Ausaf Ansari ( CUSTOMER_SUPPORT_L1 ) by Ausaf Ansari
+2022-10-13T08:02:34.965: Ausaf Ansari - Hi
+2022-10-13T08:02:39.815: Ausaf Ansari - Good afternoon
+2022-10-13T08:02:45.640: Ausaf Ansari - I will help you with this ticket. Kindly be online while I am replying.
+2022-10-13T08:03:44.543: Ausaf Ansari - please share anydesk id
+2022-10-13T08:06:26.630: Brijesh Verma - sure
+2022-10-13T08:06:27.061: Ausaf Ansari - please share error screenshot as well
+2022-10-13T08:07:05.466: Brijesh Verma - 440 908 642
+2022-10-13T08:07:09.672: Brijesh Verma - anydesk
+2022-10-13T08:30:18.870: Ausaf Ansari - As we discussed on anydesk you confirm that you will create shelf then assign shelf and said you can close this ticket.
+2022-10-13T08:30:41.213: Ausaf Ansari - As of now We are marking this ticket as resolved for now,If your issue is resolved please close the ticket with  feedback. otherwise you can reopen the same ticket for facing any issue regarding the same.
+2022-10-13T08:32:57.589: Ausaf Ansari - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, PutawayRelated, Shelf, AnyDesk, IssueResolved] by Ausaf Ansari
+2022-10-13T08:32:57.783: Ausaf Ansari - Resolved by Ausaf Ansari
+2022-10-13T13:21:47.901: offdutyindia - Reopened by offdutyindia
+2022-10-13T13:21:47.901: offdutyindia - why shelf can't be edit 
+
+2022-10-13T13:21:47.913: offdutyindia - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-10-13T13:22:24.943: Ausaf Ansari - Assignee changed to Ausaf Ansari ( CUSTOMER_SUPPORT_L1 ) by Ausaf Ansari
+2022-10-13T13:22:35.668: Ausaf Ansari - Hi
+2022-10-13T13:22:48.053: Ausaf Ansari - Good evening
+2022-10-13T13:23:24.034: offdutyindia - why shelf can,t be edit
+2022-10-13T13:23:39.461: Ausaf Ansari - I will help you with this ticket. Kindly be online while I am replying.
+2022-10-13T13:23:53.613: Ausaf Ansari - let us check
+2022-10-13T13:27:43.734: Ausaf Ansari - please share anydesk id
+2022-10-13T13:28:16.375: offdutyindia - 440 908 642 
+Any Desk
+2022-10-13T13:37:23.888: Ausaf Ansari - As we discussed on anydesk you said you are not able to assign shelf from putaway so told we are forwarding to our backend team once checked we will update you
+2022-10-13T13:37:50.379: offdutyindia - ok waiting
+2022-10-13T13:39:37.527: Ausaf Ansari - issue - not able to assign shelf or edit shelf from putaway
+2022-10-13T13:40:24.102: Ausaf Ansari - reference ticket-TK809938
+2022-10-13T13:44:52.465: Ausaf Ansari - Putaway id- PT0003
+2022-10-13T13:45:48.776: Ausaf Ansari - facility- OFFDUTY BHIWANDI
+shelf- S3 - F - 05 - 4 - 3
+logs not capturing-https://tracelog.unicommerce.com/files/trace-logs/0fc216e3-a2ae-45dd-e3d7-29529f33e480.log
+2022-10-13T13:49:12.760: Ausaf Ansari - sachin sir please check this
+2022-10-13T13:49:50.952: Ausaf Ansari - Assignee changed to sachin.mahto ( CUSTOMER_SUPPORT_L1 ) from Ausaf Ansari ( CUSTOMER_SUPPORT_L1 ) by Ausaf Ansari
+2022-10-13T14:21:06.078: offdutyindia - it's around 1 hours, still waiting for your reply
+2022-10-14T05:43:25.262: sachin.mahto - issue : While doing putaway when assigning the shelf it is giving error 
+Putaway id PT0003
+facility OFFDUTY BHIWANDI
+shelf :  S3 - F - 05 - 4 - 3
+2022-10-14T05:44:20.920: sachin.mahto - sku code : OD-DN-BC-1092-1-28
+2022-10-14T05:45:45.363: sachin.mahto - Assignee changed to UNASSIGNED ( TAM ) from sachin.mahto ( CUSTOMER_SUPPORT_L1 ) by sachin.mahto
+2022-10-14T05:46:12.560: Suyash - Assignee changed to Suyash Maskara ( TAM ) by Suyash Maskara
+2022-10-14T05:47:24.492: Suyash - Assignee changed to Somya Sharma ( TAM ) from Suyash Maskara ( TAM ) by Suyash Maskara
+2022-10-14T10:22:50.299: Somya Sharma - ref ticket - https://unidesk.unicommerce.com/admin/ticket/TK810248
+2022-10-14T11:45:19.881: Somya Sharma - working fine now 
+deployed
+2022-10-14T11:45:26.385: Somya Sharma - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, PutawayRelated, Shelf, AnyDesk, IssueResolved, TAM, OPS BUCKET: PRODUCT_BUG] by Somya Sharma
+2022-10-14T11:45:31.684: Somya Sharma - Assignee changed to sachin.mahto ( CUSTOMER_SUPPORT_L1 ) from Somya Sharma ( TAM ) by Somya Sharma
+2022-10-14T11:53:23.213: sachin.mahto - okay
+2022-10-14T11:53:30.231: sachin.mahto - Assignee changed to amit.nagil ( CUSTOMER_SUPPORT_L1 ) from sachin.mahto ( CUSTOMER_SUPPORT_L1 ) by sachin.mahto
+2022-10-14T11:57:31.283: amit.nagil - Sorry for delay please check now the issue has been resolved.
+2022-10-14T11:57:34.675: amit.nagil - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-14T11:57:39.236: amit.nagil - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, PutawayRelated, Shelf, AnyDesk, IssueResolved, TAM, OPS BUCKET: PRODUCT_BUG] by amit.nagil
+2022-10-14T11:57:39.380: amit.nagil - Resolved by amit.nagil
+2022-10-15T06:07:37.640: offdutyindia - Closed by offdutyindia with feedback 1
+2022-10-15T06:07:37.640: offdutyindia - Closed by offdutyindia with feedback 1
+
+
+****************************************************************************************************
+
+Code: TK837377
+Transcript: 
+2022-12-26T05:26:55.012: sharmarishah463@gmail.com - OD426882120446859100 this order show on flipart plane but does not show in  unicommers
+2022-12-26T05:26:55.034: sharmarishah463@gmail.com - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-12-26T05:26:55.035: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-12-26T05:29:02.780: Ankush Kumar Rathi - Assignee changed to Ankush Kumar Rathi ( CUSTOMER_SUPPORT_L1 ) by Ankush Kumar Rathi
+2022-12-26T05:29:08.922: Ankush Kumar Rathi - hello
+2022-12-26T05:29:17.812: Ankush Kumar Rathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-12-26T05:29:47.897: Rishab - hello
+2022-12-26T05:29:56.716: Rishab - ok sir
+2022-12-26T05:30:20.005: Rishab - please check the order id
+2022-12-26T05:32:10.864: Ankush Kumar Rathi - could you please share the flipkart screenshot and flipart channel full name?
+2022-12-26T05:40:31.698: Rishab - see
+2022-12-26T05:41:44.219: Rishab - flipkart_smart_bhiw
+2022-12-26T05:43:02.325: Ankush Kumar Rathi - in uniware it is unfullfilable,
+2022-12-26T05:43:14.595: Ankush Kumar Rathi - kindly add the inventory and make it RTS
+2022-12-26T05:47:03.780: Ankush Kumar Rathi - any further help/
+2022-12-26T05:49:37.536: Rishab - wait
+2022-12-26T05:51:30.356: Rishab - how did it go to fullfillable
+And when we don't have inventory, how did you place the order?
+2022-12-26T06:01:49.789: Ankush Kumar Rathi - dear client on 24 december we have sent the one inventory to flipkart panel, but after that they have received two order against it,
+2022-12-26T06:02:04.475: Ankush Kumar Rathi - thats why one is fullfilable and other is unfullfilable
+2022-12-26T06:02:30.475: Ankush Kumar Rathi - kindly connect with flipkart team why they received two order against one inventory
+2022-12-26T06:07:32.937: Ankush Kumar Rathi - any further help?
+2022-12-26T06:10:40.841: Ankush Kumar Rathi - thank you, have a nice day
+2022-12-26T06:10:45.419: Ankush Kumar Rathi - Thank you for using our live chat service. I am now closing this chat. If you have any more issues, please do let us know. Have a great day. Please do share your valuable feedback and close this ticket if issue has been resolved.
+2022-12-26T06:11:09.787: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Flipkart, Unfulfillable, Channelend, IssueResolved] by Ankush Kumar Rathi
+2022-12-26T06:11:12.326: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Flipkart, Unfulfillable, Channelend, IssueResolved] by Ankush Kumar Rathi
+2022-12-26T06:11:12.495: Ankush Kumar Rathi - Resolved by Ankush Kumar Rathi
+2022-12-26T06:18:14.803: Rishab - Closed by Rishab with feedback 1
+2022-12-26T06:18:14.803: Rishab - Closed by Rishab with feedback 1
+
+
+****************************************************************************************************
+
+Code: TK817036
+Transcript: 
+2022-11-04T06:27:50.626: customercare@intimacy.co.in - #14936
+ It's a prepaid order but stating has COD
+2022-11-04T06:27:50.647: customercare@intimacy.co.in - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-11-04T06:27:50.648: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-04T06:32:42.740: Itishree Sarkar - Hello, we will help you with this ticket and thank you for contacting our chat line. Kindly be online while we are replying. 
+Please wait for some time we are checking the issue.
+2022-11-04T06:33:39.186: Itishree Sarkar - Assignee changed to Ankush Kumar Rathi ( CUSTOMER_SUPPORT_L1 ) by Itishree Sarkar
+2022-11-04T06:39:25.236: Ankush Kumar Rathi - hello
+2022-11-04T06:39:31.440: Ankush Kumar Rathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-04T06:39:45.066: Saranya - Sure
+2022-11-04T06:54:47.739: Ankush Kumar Rathi - dear cient, could you please share the screenshot panel
+2022-11-04T06:55:01.948: Ankush Kumar Rathi - coz we are getting this order as cod from shopify
+2022-11-04T07:17:26.802: Ankush Kumar Rathi - We request you to kindly provide the information asked in above chat to resolve the issue. Prompt response will be highly appreciated.
+2022-11-04T07:19:51.985: Ankush Kumar Rathi - dear client, if you have changed the status from cod to paid, then kindly share the screenshot, and if not processed from shopify then we can try it with delete and refetch
+2022-11-04T07:19:57.380: Ankush Kumar Rathi - any further help?
+2022-11-04T07:21:08.086: Ankush Kumar Rathi - thank you, have a nice day
+2022-11-04T07:21:14.666: Ankush Kumar Rathi - Thank you for using our live chat service. I am now closing this chat. If you have any more issues, please do let us know. Have a great day. Please do share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-04T07:21:32.906: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved] by Ankush Kumar Rathi
+2022-11-04T07:21:35.058: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved] by Ankush Kumar Rathi
+2022-11-04T07:21:35.215: Ankush Kumar Rathi - Resolved by Ankush Kumar Rathi
+2022-11-04T07:23:32.713: Saranya - Reopened by Saranya
+2022-11-04T07:23:32.713: Saranya - Still is unresolved
+
+2022-11-04T07:23:32.734: Saranya - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-11-04T07:31:57.731: Priti Kumari - Assignee changed to Ankush Kumar Rathi ( CUSTOMER_SUPPORT_L1 ) by Priti Kumari
+2022-11-04T07:36:31.477: Ankush Kumar Rathi - hello
+2022-11-04T07:36:37.779: Ankush Kumar Rathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-04T07:57:46.779: Saranya - ok
+2022-11-04T08:07:55.516: Ankush Kumar Rathi - dear client, we are getting it checked from our backend team
+2022-11-04T08:08:14.349: Ankush Kumar Rathi - once we get an update , we will inform you
+2022-11-04T08:19:40.595: Ankush Kumar Rathi - Issue- Shopify order fell in uniware as COD, while on panel it is paid and unfullfilled
+2022-11-04T08:20:21.419: Ankush Kumar Rathi - order id- 4819255230629
+
+delete and refetch logs-
+
+
+https://tracelog.unicommerce.com/files/trace-logs/7b6bb621-ef7a-49a3-a60a-49b58d7a1654.log
+2022-11-04T08:21:06.183: Ankush Kumar Rathi - plz check
+2022-11-04T08:21:26.923: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved, MS:Shopify] by Ankush Kumar Rathi
+2022-11-04T08:21:35.828: Ankush Kumar Rathi - Assignee changed to Priti Kumari ( CUSTOMER_SUPPORT_L1 ) from Ankush Kumar Rathi ( CUSTOMER_SUPPORT_L1 ) by Ankush Kumar Rathi
+2022-11-04T08:26:49.946: Priti Kumari - Order- 4819255230629
+Channel- VNH NAIDU HALL-SHOPIFY
+
+Issue- Order is Paid on Shopify but we have fetched it as COD
+
+We got the financial Status as paid
+
+Logs:  https://tracelog.unicommerce.com/files/trace-logs/7b6bb621-ef7a-49a3-a60a-49b58d7a1654.log
+
+Kindly look into it
+2022-11-04T08:27:23.997: Priti Kumari - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved, MS:Shopify] by Priti Kumari
+2022-11-04T08:28:35.996: Priti Kumari - Assignee changed to UNASSIGNED ( TAM ) from Priti ( CUSTOMER_SUPPORT_L1 ) by Priti Kumari
+2022-11-04T08:39:51.321: Suyash - Assignee changed to Suyash Maskara ( TAM ) by Suyash Maskara
+2022-11-04T08:44:06.223: Suyash - Assignee changed to Kaushal Kumar ( TAM ) from Suyash Maskara ( TAM ) by Suyash Maskara
+2022-11-04T10:39:33.483: Kaushal Kumar - Order Sync tracelogs: https://tracelog.unicommerce.com/files/trace-logs/fda4bd86-b13c-439a-bcd9-02da8bf5627f.log
+
+Order- 4819255230629
+Channel- VNH NAIDU HALL-SHOPIFY
+
+We got the financial Status as paid and "gateway": "manual", "payment_gateway_names": [
+    "manual"
+  ],
+
+Still order fetched in uniware as COD, please check why 
+Expected : It should be Prepaid order, please check if anything missing in script handling as shopifyGetSaleOrderDetailsScript is on TK810626 version
+2022-11-04T10:39:44.502: Kaushal Kumar - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved, MS:Shopify, TAM, OPS BUCKET: SCRIPT_CHANGES] by Kaushal Kumar
+2022-11-04T10:40:07.580: Kaushal Kumar - Assignee changed to UNASSIGNED ( APP_ENGG ) from Kaushal Kumar ( TAM ) by Kaushal Kumar
+2022-11-04T11:31:17.638: Swati Bansal - <var name="saleOrderTransactionObj" value="#{#saleOrderTransactionsJson.getAsJsonArray().iterator().next()}" />
+                    <var name="transactionStatus" value="#{#saleOrderTransactionObj.get('status').getAsString()}" />
+                    <if condition="#{'PENDING'.equalsIgnoreCase(#transactionStatus) }" >
+                        <log level="info" value="Financial Status is pending"/>
+                        <var name="cashOnDelivery" value="#{true}" />
+                    </if>
+2022-11-04T11:31:33.772: Swati Bansal - {
+    "amountSet": {
+      "shopMoney": {
+        "amount": "660.0",
+        "currencyCode": "INR"
+      }
+    },
+    "gateway": "manual",
+    "kind": "SALE",
+    "status": "PENDING",
+    "receipt": "{}"
+  },
+2022-11-04T11:32:26.731: Swati Bansal - It was marked COD since transactionStatus was pending.
+2022-11-04T11:32:55.217: Swati - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved, MS:Shopify, TAM, OPS BUCKET: SCRIPT_CHANGES, APP_ENGG, TECH:EXPECTED_BEHAVIOUR] by Swati Bansal
+2022-11-04T11:33:01.972: Swati - Assignee changed to Kaushal Kumar ( TAM ) by Swati Bansal
+2022-11-04T11:59:00.235: Kaushal Kumar - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, IssueResolved, MS:Shopify, TAM, APP_ENGG, TECH:EXPECTED_BEHAVIOUR, OPS BUCKET: NO_TECH_EFFORT] by Kaushal Kumar
+2022-11-04T11:59:45.212: Kaushal Kumar - Assignee changed to Priti Kumari ( CUSTOMER_SUPPORT_L1 ) from Kaushal Kumar ( TAM ) by Kaushal Kumar
+2022-11-04T13:00:38.785: Priti Kumari - {
+"amountSet": {
+"shopMoney": {
+"amount": "660.0",
+"currencyCode": "INR"
+}
+},
+"gateway": "manual",
+"kind": "SALE",
+"status": "PENDING",
+"receipt": "{}"
+},
+2022-11-04T13:01:05.565: Priti Kumari - transactionStatus was pending.
+2022-11-04T13:01:41.266: Priti Kumari - transactionStatus should not be pending to avoid such issues
+2022-11-04T13:02:18.618: Priti Kumari - Discussed with Swati
+2022-11-04T13:02:23.268: Priti Kumari - Assignee changed to Ankush Kumar Rathi ( CUSTOMER_SUPPORT_L1 ) from Priti ( CUSTOMER_SUPPORT_L1 ) by Priti Kumari
+2022-11-04T13:05:40.071: Ankush Kumar Rathi - dear client, as our backend team have checked, in logs we are getting transaction status pending, thats why we are fetching this order as cod
+2022-11-04T13:10:27.100: Ankush Kumar Rathi - here i am sharing the logs, kindky connect with shopify developer regarding this
+2022-11-04T13:11:01.590: Ankush Kumar Rathi - thank you, have a nice day
+2022-11-04T13:11:09.682: Ankush Kumar Rathi - Thank you for using our live chat service. I am now closing this chat. If you have any more issues, please do let us know. Have a great day. Please do share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-04T13:11:23.511: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, MS:Shopify, TAM, APP_ENGG, TECH:EXPECTED_BEHAVIOUR, OPS BUCKET: NO_TECH_EFFORT, IssueResolved] by Ankush Kumar Rathi
+2022-11-04T13:11:26.718: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, Shopify, OrderRelated, MS:Shopify, TAM, APP_ENGG, TECH:EXPECTED_BEHAVIOUR, OPS BUCKET: NO_TECH_EFFORT, IssueResolved] by Ankush Kumar Rathi
+2022-11-04T13:11:26.880: Ankush Kumar Rathi - Resolved by Ankush Kumar Rathi
+2022-11-06T12:36:18.970: Saranya - Closed by Saranya with feedback 5
+2022-11-06T12:36:18.970: Saranya - Closed by Saranya with feedback 5
+
+
+****************************************************************************************************
+
+Code: TK806520
+Transcript: 
+2022-10-03T08:20:03.082: jatandeep@karatcart.com - We are not able to close manifest number SM14103
+2022-10-03T08:20:03.123: jatandeep@karatcart.com - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-10-03T08:20:03.124: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-03T08:20:11.541: Ankush Kumar Rathi - Assignee changed to Ankush Kumar Rathi ( CUSTOMER_SUPPORT_L1 ) by Ankush Kumar Rathi
+2022-10-03T08:20:18.394: Ankush Kumar Rathi - hello
+2022-10-03T08:20:23.753: Ankush Kumar Rathi - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-10-03T08:22:29.818: Ankush Kumar Rathi - please check now it is done
+2022-10-03T08:22:35.341: Ankush Kumar Rathi - any further help?
+2022-10-03T08:24:41.307: Ankush Kumar Rathi - thank you, have a nice day
+2022-10-03T08:24:52.396: Ankush Kumar Rathi - Thank you for using our live chat service. I am now closing this chat. If you have any more issues, please do let us know. Have a great day. Please do share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-03T08:25:05.767: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, AJIO, Manifest, IssueResolved] by Ankush Kumar Rathi
+2022-10-03T08:25:12.133: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, AJIO, Manifest, IssueResolved] by Ankush Kumar Rathi
+2022-10-03T08:25:12.197: Ankush Kumar Rathi - Tags changed  to [CUSTOMER_SUPPORT_L1, AJIO, Manifest, IssueResolved] by Ankush Kumar Rathi
+2022-10-03T08:25:12.384: Ankush Kumar Rathi - Resolved by Ankush Kumar Rathi
+2022-10-03T08:38:39.308: Jatandeep - Closed by Jatandeep with feedback 4
+2022-10-03T08:38:39.308: Jatandeep - Closed by Jatandeep with feedback 4
+
+
+****************************************************************************************************
+
+Code: TK822453
+Transcript: 
+2022-11-19T10:07:43.506: adityasreevatsa00798@gmail.com - I have forced dispatched the orders could you please take a look
+2022-11-19T10:07:43.534: adityasreevatsa00798@gmail.com - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-19T10:07:43.540: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-11-19T10:08:35.877: Manoj Tewari - Assignee changed to Manoj Tewari ( CS_PREMIUM ) by Manoj Tewari
+2022-11-19T10:08:46.974: Manoj Tewari - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-19T10:11:16.036: Manoj Tewari - Please help me with the sheet that you have Uploaded for doing Force dispatch
+2022-11-19T10:16:17.152: Aditya - soory not thay
+2022-11-19T10:17:19.915: Aditya - please force dispatch these two files shipment codes
+2022-11-19T10:17:39.394: Manoj Tewari - dear client the shipment Code is Only in last file
+2022-11-19T10:17:45.799: Manoj Tewari - Other two Files are empty
+2022-11-19T10:19:22.751: Aditya - one sec
+2022-11-19T10:21:11.398: Aditya - could you please take a look at these two
+2022-11-19T10:27:06.183: Aditya - are you there?
+2022-11-19T10:27:44.080: Manoj Tewari - please wait I am working on it
+2022-11-19T10:28:36.251: Aditya - okay
+2022-11-19T10:29:08.422: Aditya - okay
+2022-11-19T10:32:36.948: Manoj Tewari - dear client given sheets shipment ID 's are Force dispatched successfully
+2022-11-19T10:32:48.529: Manoj Tewari - Please check at your end also
+2022-11-19T10:32:57.358: Aditya - what did you do
+2022-11-19T10:33:06.213: Manoj Tewari - force dispatch
+2022-11-19T10:33:09.865: Aditya - how can I do it without support
+2022-11-19T10:33:33.970: Aditya - what mistake was done
+2022-11-19T10:33:43.656: Manoj Tewari - when Shipment status is CREATED you need to write 1 in Column E
+2022-11-19T10:34:12.638: Aditya - skip channel?
+2022-11-19T10:34:27.641: Manoj Tewari - when Shipment status is PACKED/RTS you need to leave it blank
+2022-11-19T10:34:37.555: Aditya - I had written 1 right
+2022-11-19T10:34:47.449: Manoj Tewari - yes there was no error in sheet 1
+2022-11-19T10:34:57.822: Aditya - sheet 2?
+2022-11-19T10:36:26.109: Manoj Tewari - dear client you can directly also force dispatch from here
+2022-11-19T10:36:32.378: Manoj Tewari - please Refer above screenshot
+2022-11-19T10:36:46.150: Manoj Tewari - there was no error in both the sheets
+2022-11-19T10:36:59.508: Aditya - okay
+2022-11-19T10:38:13.448: Aditya - we dont have forced dispatch option in ready to ship
+2022-11-19T10:38:15.522: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, ForceDispatch, Shopify] by Manoj Tewari
+2022-11-19T10:40:19.296: Manoj Tewari - dear client there might be Possibility that  this access is not at your end so you need to follow the sheet Option only
+2022-11-19T10:40:35.641: Manoj Tewari - if there comes any error you can Raise Ticket we will help you out
+2022-11-19T10:40:58.744: Aditya - How do we get to that option?
+2022-11-19T10:41:04.018: Aditya - do we need to upgerade?
+2022-11-19T10:41:09.231: Aditya - upgrade
+2022-11-19T10:41:28.297: Manoj Tewari - no this option is not available at seller end
+2022-11-19T10:42:01.629: Aditya - okay
+2022-11-19T10:42:04.313: Aditya - thank you
+2022-11-19T10:42:22.199: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, ForceDispatch, Shopify] by Manoj Tewari
+2022-11-19T10:42:27.612: Manoj Tewari - your welcome
+2022-11-19T10:42:32.947: Manoj Tewari - have a good day ahead
+2022-11-19T10:42:38.342: Manoj Tewari - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-11-19T10:42:44.400: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, ForceDispatch, Shopify, IssueResolved] by Manoj Tewari
+2022-11-19T10:42:44.631: Manoj Tewari - Resolved by Manoj Tewari
+2022-11-21T06:23:22.598: Aditya - Reopened by Aditya
+2022-11-21T06:23:22.598: Aditya - Hi Manoj
+2022-11-21T06:23:22.612: Aditya - Assignee changed to null (CS_PREMIUM) by defaultEnterprise
+2022-11-21T06:23:36.821: Aditya - We have more SLA Breached
+2022-11-21T06:25:36.299: Monalisha Singh - Assignee changed to Monalisha Singh ( CS_PREMIUM ) by Monalisha Singh
+2022-11-21T06:25:44.290: Monalisha Singh - waiting
+2022-11-21T06:25:47.489: Monalisha Singh - hi
+2022-11-21T06:29:00.270: Monalisha Singh - Assignee changed to Manoj Tewari ( CS_PREMIUM ) from Monalisha Singh ( CS_PREMIUM ) by Monalisha Singh
+2022-11-21T06:29:34.013: Manoj Tewari - Hello, I will help you with this ticket. Kindly be online while I am replying.
+2022-11-21T06:30:07.419: Manoj Tewari - dear client Please force dispatch in the same way as You did the previous once
+2022-11-21T06:36:02.801: Manoj Tewari - http://support.unicommerce.com/index.php/knowledge-base/shipping-package-force-dispatched-though-bulk-import/
+2022-11-21T06:36:19.936: Manoj Tewari - Please Refer above support article for force dispatching these Orders in uniware
+2022-11-21T06:43:07.546: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, ForceDispatch, Shopify, IssueResolved] by Manoj Tewari
+2022-11-21T06:43:28.002: Manoj Tewari - if there will be any issue while Uploading the sheet Please do let us know by Reopening this Ticket
+2022-11-21T06:43:30.227: Manoj Tewari - Than You
+2022-11-21T06:43:33.332: Manoj Tewari - Thank You
+2022-11-21T06:43:37.500: Manoj Tewari - Tags changed  to [CS_PREMIUM, P2, ForceDispatch, Shopify, IssueResolved] by Manoj Tewari
+2022-11-21T06:43:37.662: Manoj Tewari - Resolved by Manoj Tewari
+2022-11-25T22:00:02.277: Unicommerce Customer Support - Closed Automatically on Sat Nov 26 2022 03:30:02 GMT+0530 (IST)
+
+
+****************************************************************************************************
+
+Code: TK809242
+Transcript: 
+2022-10-11T09:11:27.800: rajan.thepillowcompany@gmail.com - why is not showing order invoice
+2022-10-11T09:11:27.814: rajan.thepillowcompany@gmail.com - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-10-11T09:11:27.815: Unicommerce Customer Support - Hi! Thank you for reaching out to us. Our service agent will get back to you on your query. Kindly note that the average wait time is five minutes so you are requested to please be online while one of our support agents will connect to you. We appreciate your patience.
+ 
+Kindly note, we will chat in English by default. Agar aap chahte hain ki hum hindi mein chat karein, to kripya 'Hindi' type karke enter kijiye, phir hamare agent aapse Hindi mein chat karenge.
+2022-10-11T09:13:45.794: amit.nagil - Assignee changed to amit.nagil ( CUSTOMER_SUPPORT_L1 ) by amit.nagil
+2022-10-11T09:13:57.124: amit.nagil - hi
+2022-10-11T09:15:24.138: Rajan - hii
+2022-10-11T09:16:02.188: amit.nagil - Please share order id so we can check.
+2022-10-11T09:16:13.639: Rajan - uae 1104  order no not showing
+2022-10-11T09:28:54.773: amit.nagil - ok wait
+2022-10-11T09:39:13.081: amit.nagil - as i have checked the invoice is showing for order.
+2022-10-11T09:41:01.710: amit.nagil - is there anything else?
+2022-10-11T09:44:15.889: amit.nagil - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-11T09:44:29.908: amit.nagil - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, IssueResolved, InvoiceGeneration] by amit.nagil
+2022-10-11T09:44:30.171: amit.nagil - Resolved by amit.nagil
+2022-10-12T05:20:13.216: Rajan - Reopened by Rajan
+2022-10-12T05:20:13.216: Rajan - hii pls call me 9911918475
+
+2022-10-12T05:20:13.233: Rajan - Assignee changed to null (CUSTOMER_SUPPORT_L1) by defaultEnterprise
+2022-10-12T05:20:17.322: Rajan - hii
+2022-10-12T05:23:57.150: Priti Kumari - Assignee changed to sachin.mahto ( CUSTOMER_SUPPORT_L1 ) by Priti Kumari
+2022-10-12T05:24:12.316: sachin.mahto - Assignee changed to amit.nagil ( CUSTOMER_SUPPORT_L1 ) from sachin.mahto ( CUSTOMER_SUPPORT_L1 ) by sachin.mahto
+2022-10-12T05:25:47.394: amit.nagil - hi
+2022-10-12T05:25:59.668: amit.nagil - wait i will connect you in some time please wait.
+2022-10-12T05:26:16.013: amit.nagil - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, IssueResolved, InvoiceGeneration, CallBack] by amit.nagil
+2022-10-12T05:28:11.717: Rajan - ok
+2022-10-12T05:28:17.087: Rajan - pls soon
+2022-10-12T05:30:13.415: amit.nagil - yes we will connect as soon as possible.
+2022-10-12T05:37:47.722: Rajan - pls its urgent
+2022-10-12T05:38:30.254: amit.nagil - we are sorry for that but it will take some time.
+2022-10-12T05:38:37.782: amit.nagil - flow
+2022-10-12T06:07:11.005: amit.nagil - As discussed on call your order was present in other facility.
+2022-10-12T06:07:14.884: amit.nagil - We are happy to inform you that the raised issue has been resolved now. Please check and let us know by re-opening the ticket in case of any further concern on this. Please share your valuable feedback and close this ticket if issue has been resolved.
+2022-10-12T06:07:17.709: amit.nagil - Tags changed  to [CUSTOMER_SUPPORT_L1, P2, IssueResolved, InvoiceGeneration, CallBack] by amit.nagil
+2022-10-12T06:07:17.869: amit.nagil - Resolved by amit.nagil
+2022-10-12T07:13:10.093: Rajan - Closed by Rajan with feedback 5
+2022-10-12T07:13:10.093: Rajan - Closed by Rajan with feedback 5
+
+
+****************************************************************************************************
+
