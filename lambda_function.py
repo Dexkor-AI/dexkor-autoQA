@@ -69,6 +69,7 @@ class ChatAgentEvaluator:
                 - Proper information to Tech / TL / Other internal departments while assigning the case (10 points): Did the agent correctly convey information to other departments (Tech, TL) when needed?
                 - Possible Resolution in case of no response based on available information (10 points): Did the agent provide a potential resolution when the customer did not respond, using the available information?
                 - Screenshot / knowledgebase / steps / reference (10 points): Did the agent include helpful screenshots, knowledge base links, or step-by-step instructions to assist in resolving the issue?
+                - Educate to map the listings or check for catalog in unlinked (10 points): Did the agent educate the customer to map the listings or check for catalog in unlinked?
             
             5. Fatal (Zero Tolerance)
                 - Provided incorrect / incomplete information (Zero tolerance): Was any incorrect or incomplete information provided to the customer? If so, the score is zero unless the agent rectified it within the same conversation.
@@ -84,6 +85,9 @@ class ChatAgentEvaluator:
                 - Include all the key points discussed during the conversation.
                 - Include any action items or next steps.
                 - Include any additional information that may be relevant.
+                - Identify any spelling mistakes or incorrect sentence formations (e.g., "nit" instead of "not", "there" instead of "their").
+                - Identify if the agent missed using polite phrases like "please wait, let me check".
+                - Identify if the agent failed to apologize or educate the customer when closing the ticket.
                 
             Task Steps:
             1. Evaluate the Transcript:
@@ -119,6 +123,7 @@ class ChatAgentEvaluator:
                     "Proper information to Tech / TL / Other internal departments while assigning the case": <score>,
                     "Possible Resolution in case of no response basis available information": <score>,
                     "Screenshot / knowledgebase / steps / reference": <score>,
+                    "Educate to map the listings or check for catalog in unlinked": <score>,
                     "Reasoning": <reasoning_for_score>
                 }},
                 "Fatal": <yes or no>,
@@ -208,9 +213,12 @@ class ChatAgentEvaluator:
             return None, '', ''
 
     def evaluate_conversation(self, transcript):
-        # Analyze the conversation using the LLM
+        """Evaluate the conversation using the LLM."""
         try:
-            analysis_results = self.analyze_customer_sentiment_and_responses(transcript)
+            # Convert transcript to text format
+            transcript_text = "\n".join([f"{entry['timestamp']} - {entry['user']} - {entry['message']}" for entry in transcript])
+            
+            analysis_results = self.analyze_customer_sentiment_and_responses(transcript_text)
 
             if analysis_results:
                 total_scores, summary, sentiment = self.calculate_score(analysis_results)
