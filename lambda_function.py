@@ -232,7 +232,9 @@ class ChatAgentEvaluator:
             
 def lambda_handler(event, context):
     try:
-        transcript = event['transcript']
+        transcript = json.loads(event['body'])['transcript']
+        # logging.info(f"length of transcript: {len(transcript)}")
+
 
         evaluator = ChatAgentEvaluator()
         total_scores, summary, sentiment, llm_response = evaluator.evaluate_conversation(transcript)
@@ -246,7 +248,7 @@ def lambda_handler(event, context):
                 "Total Score": total_scores['Total Score'],
                 "Summary": summary,
                 "Sentiment": sentiment,
-                "llm_response": json.dumps(llm_response)
+                "llm_response": llm_response
             }
         else:
             logging.warning("Evaluation failure.")
