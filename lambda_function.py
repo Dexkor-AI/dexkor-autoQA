@@ -229,7 +229,7 @@ class ChatAgentEvaluator:
         except Exception as e:
             logging.error(f"Error evaluating conversation: {e}")
             return None
-
+            
 def lambda_handler(event, context):
     try:
         transcript = event['transcript']

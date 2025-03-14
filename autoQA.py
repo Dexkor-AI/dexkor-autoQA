@@ -241,7 +241,7 @@ if __name__ == "__main__":
         transcripts = transcripts.split(f"{'*' * 100}")[:-1]
         
         dataframes = []
-        for transcript in transcripts[:1]:
+        for transcript in transcripts[:5]:
             main_transcript = transcript.split("Transcript:")[-1].strip()
             code = transcript.split("Code:")[1].split("Transcript:")[0].strip()
 
