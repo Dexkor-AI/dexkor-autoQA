@@ -27,7 +27,7 @@ The `lambda_handler` function is the entry point for the AWS Lambda function. It
 
 ### Endpoint
 
-- **POST /evaluate**
+- **POST /default/dexkor_autoQA**
 
 ### Request
 
