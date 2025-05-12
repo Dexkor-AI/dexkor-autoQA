@@ -44,7 +44,7 @@ class ChatAgentEvaluator:
         if not text:
             return 0
         len_ = len(text)
-        return len_ * 1.15
+        return (len_ * 1.15) * (3/4)
 
     def analyze_customer_sentiment_and_responses(self, transcript):
         """Analyzes the transcript to extract sentiment and response relevance."""
