@@ -39,6 +39,13 @@ class ChatAgentEvaluator:
             logging.error(f"Unexpected error during Groq inference: {e}")
             return None
 
+    def count_tokens(self, text):
+        """Approximate token count using whitespace splitting (simple heuristic)."""
+        if not text:
+            return 0
+        len_ = len(text)
+        return len_ * 1.15
+
     def analyze_customer_sentiment_and_responses(self, transcript):
         """Analyzes the transcript to extract sentiment and response relevance."""
         # Format the prompt to extract the required parameters (Positive Sentiment, Total Customer Messages, etc.)
@@ -136,22 +143,20 @@ class ChatAgentEvaluator:
             Transcript: 
             {transcript}
         """
+        input_token_count = self.count_tokens(prompt)
         try:
-            # with open("llm_input.txt", "w") as file:  # Change mode to 'a' for append
-            #     logging.debug(f"Appending prompt to file for LLM inference. {prompt}")
-            #     file.write(prompt)
             result = self.call_groq_inference(prompt)  
+            output_token_count = self.count_tokens(result) if result else 0
 
             if result:
-                # with open("llm_output.txt", "a") as file:
-                #     file.write(result + "\n\n"  + "*" * 100 + "\n\n")
-                return self.parse_llm_output(result)
+                parsed = self.parse_llm_output(result)
+                return parsed, input_token_count, output_token_count
             else:
                 logging.warning("No result returned from LLM.")
-                return None
+                return None, input_token_count, output_token_count
         except Exception as e:
             logging.error(f"Error during sentiment analysis: {e}")
-            return None
+            return None, input_token_count, 0
 
     def parse_llm_output(self, output):
         """Extract key values from the LLM response."""
@@ -220,17 +225,17 @@ class ChatAgentEvaluator:
             # Convert transcript to text format
             transcript_text = "\n".join([f"{entry['timestamp']} - {entry['user']} - {entry['message']}" for entry in transcript])
             
-            analysis_results = self.analyze_customer_sentiment_and_responses(transcript_text)
+            analysis_results, input_token_count, output_token_count = self.analyze_customer_sentiment_and_responses(transcript_text)
 
             if analysis_results:
                 total_scores, summary, sentiment = self.calculate_score(analysis_results)
-                return total_scores, summary, sentiment, analysis_results
+                return total_scores, summary, sentiment, analysis_results, input_token_count, output_token_count
             else:
                 logging.error("Failed to analyze the conversation.")
-                return None
+                return None, '', '', None, input_token_count, output_token_count
         except Exception as e:
             logging.error(f"Error evaluating conversation: {e}")
-            return None
+            return None, '', '', None, 0, 0
             
 def lambda_handler(event, context):
     logging.info("Lambda function invoked.")
@@ -281,7 +286,7 @@ def lambda_handler(event, context):
             raise KeyError("Transcript not found in the event data.")
 
         evaluator = ChatAgentEvaluator()
-        total_scores, summary, sentiment, llm_response = evaluator.evaluate_conversation(transcript)
+        total_scores, summary, sentiment, llm_response, input_token_count, output_token_count = evaluator.evaluate_conversation(transcript)
 
         if total_scores:
             response = {
@@ -293,7 +298,9 @@ def lambda_handler(event, context):
                 "Total Score": total_scores['Total Score'],
                 "Summary": summary,
                 "Sentiment": sentiment,
-                "llm_response": llm_response
+                "llm_response": llm_response,
+                "Input Token Count": input_token_count,
+                "Output Token Count": output_token_count
             }
         else:
             logging.warning("Evaluation failure.")
