@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+ALLOWED_ORIGINS = {"https://dexkor.com", "https://dexkor.in"}
+
 class ChatAgentEvaluator:
     def __init__(self):
         self.groq_client = Groq(api_key=os.getenv("GROQ_API"))
@@ -135,14 +137,14 @@ class ChatAgentEvaluator:
             {transcript}
         """
         try:
-            with open("llm_input.txt", "w") as file:  # Change mode to 'a' for append
-                logging.debug(f"Appending prompt to file for LLM inference. {prompt}")
-                file.write(prompt)
+            # with open("llm_input.txt", "w") as file:  # Change mode to 'a' for append
+            #     logging.debug(f"Appending prompt to file for LLM inference. {prompt}")
+            #     file.write(prompt)
             result = self.call_groq_inference(prompt)  
 
             if result:
-                with open("llm_output.txt", "a") as file:
-                    file.write(result + "\n\n"  + "*" * 100 + "\n\n")
+                # with open("llm_output.txt", "a") as file:
+                #     file.write(result + "\n\n"  + "*" * 100 + "\n\n")
                 return self.parse_llm_output(result)
             else:
                 logging.warning("No result returned from LLM.")
@@ -231,13 +233,56 @@ class ChatAgentEvaluator:
             return None
             
 def lambda_handler(event, context):
-    try:
-        transcript = json.loads(event['body'])['transcript']
-        # logging.info(f"length of transcript: {len(transcript)}")
+    logging.info("Lambda function invoked.")
 
+    # Get the origin of the request
+    origin = event.get("headers", {}).get("origin")
+    logging.info(f"Request origin: {origin}")
+
+    # Reject requests from disallowed origins
+    if origin not in ALLOWED_ORIGINS:
+        logging.warning(f"Unauthorized origin: {origin}")
+        return {
+            'statusCode': 401,
+            'body': json.dumps({'error': 'Unauthorized origin'}),
+            'headers': {
+                "Access-Control-Allow-Origin": "null"
+            }
+        }
+
+    # Set CORS headers for allowed origin
+    cors_headers = {
+        "Access-Control-Allow-Origin": origin,
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization",
+    }
+
+    # Handle OPTIONS preflight request
+    if event.get("httpMethod") == "OPTIONS":
+        return {
+            'statusCode': 200,
+            'headers': cors_headers,
+            'body': ''
+        }
+
+    try:
+        body = json.loads(event["body"])
+    except json.JSONDecodeError:
+        logging.error("Invalid JSON body.")
+        return {
+            'statusCode': 400,
+            'body': json.dumps({'error': 'Invalid JSON body.'}),
+            'headers': cors_headers
+        }
+
+    try:
+        transcript = body.get('transcript')
+        if not transcript:
+            raise KeyError("Transcript not found in the event data.")
 
         evaluator = ChatAgentEvaluator()
         total_scores, summary, sentiment, llm_response = evaluator.evaluate_conversation(transcript)
+
         if total_scores:
             response = {
                 "Opening Score": total_scores['Opening Score'],
@@ -256,17 +301,21 @@ def lambda_handler(event, context):
 
         return {
             'statusCode': 200,
-            'body': json.dumps(response)
+            'body': json.dumps(response),
+            'headers': cors_headers
         }
+
     except KeyError as e:
         logging.error(f"Missing key in event data: {str(e)}")
         return {
             'statusCode': 400,
-            'body': json.dumps({'error': f"Missing key: {str(e)}"})
+            'body': json.dumps({'error': f"Missing key: {str(e)}"}),
+            'headers': cors_headers
         }
     except Exception as e:
         logging.error(f"Unexpected error: {str(e)}")
         return {
             'statusCode': 500,
-            'body': json.dumps({'error': str(e)})
+            'body': json.dumps({'error': str(e)}),
+            'headers': cors_headers
         }
