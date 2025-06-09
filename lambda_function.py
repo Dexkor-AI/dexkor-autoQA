@@ -1,18 +1,30 @@
 import json
 import logging
 import os
+import re
 from groq import Groq
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
 
-ALLOWED_ORIGINS = {"https://dexkor.com", "https://dexkor.in"}
+def is_allowed_origin(origin):
+    """
+    Allow any subdomain of dexkor.com or dexkor.in, including the root domains,
+    and localhost with any port.
+    """
+    if not origin:
+        return False
+    # Allow http(s)://*.dexkor.com or dexkor.in (including root)
+    pattern = r"^https?://([a-zA-Z0-9-]+\.)*(dexkor\.com|dexkor\.in)(:\d+)?$"
+    # Allow localhost with any port
+    localhost_pattern = r"^http://localhost(:\d+)?$"
+    return re.match(pattern, origin) or re.match(localhost_pattern, origin)
 
 class ChatAgentEvaluator:
     def __init__(self):
         self.groq_client = Groq(api_key=os.getenv("GROQ_API"))
-        self.model_id = 'llama3-70b-8192'
+        self.model_id = 'llama-3.1-8b-instant'
         logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     def call_groq_inference(self, input_text: str):
@@ -48,7 +60,6 @@ class ChatAgentEvaluator:
 
     def analyze_customer_sentiment_and_responses(self, transcript):
         """Analyzes the transcript to extract sentiment and response relevance."""
-        # Format the prompt to extract the required parameters (Positive Sentiment, Total Customer Messages, etc.)
         prompt = f"""
             You are tasked with evaluating a conversation between a customer and an agent. Your job is to assess the agent's performance across 
             various categories and provide a score for each sub-parameter based on how well the agent followed best practices, responded to the 
@@ -144,19 +155,30 @@ class ChatAgentEvaluator:
             {transcript}
         """
         input_token_count = self.count_tokens(prompt)
-        try:
-            result = self.call_groq_inference(prompt)  
-            output_token_count = self.count_tokens(result) if result else 0
+        max_attempts = 3
+        attempt = 0
+        result = None
+        parsed = None
+        output_token_count = 0
 
-            if result:
-                parsed = self.parse_llm_output(result)
-                return parsed, input_token_count, output_token_count
-            else:
-                logging.warning("No result returned from LLM.")
-                return None, input_token_count, output_token_count
-        except Exception as e:
-            logging.error(f"Error during sentiment analysis: {e}")
-            return None, input_token_count, 0
+        while attempt < max_attempts:
+            try:
+                result = self.call_groq_inference(prompt)
+                output_token_count = self.count_tokens(result) if result else 0
+                if result:
+                    parsed = self.parse_llm_output(result)
+                    if parsed:
+                        return parsed, input_token_count, output_token_count
+                    else:
+                        logging.warning(f"Attempt {attempt+1}: Failed to parse LLM output.")
+                else:
+                    logging.warning(f"Attempt {attempt+1}: No result returned from LLM.")
+            except Exception as e:
+                logging.error(f"Error during sentiment analysis (attempt {attempt+1}): {e}")
+            attempt += 1
+
+        # If all attempts fail
+        return None, input_token_count, output_token_count
 
     def parse_llm_output(self, output):
         """Extract key values from the LLM response."""
@@ -241,17 +263,20 @@ def lambda_handler(event, context):
     logging.info("Lambda function invoked.")
 
     # Get the origin of the request
-    origin = event.get("headers", {}).get("origin")
+    origin = event.get("headers", {}).get("origin") or event.get("headers", {}).get("Origin")
     logging.info(f"Request origin: {origin}")
 
     # Reject requests from disallowed origins
-    if origin not in ALLOWED_ORIGINS:
+    # if not is_allowed_origin(origin):
+    if False :
         logging.warning(f"Unauthorized origin: {origin}")
         return {
             'statusCode': 401,
             'body': json.dumps({'error': 'Unauthorized origin'}),
             'headers': {
-                "Access-Control-Allow-Origin": "null"
+                "Access-Control-Allow-Origin": "null",
+                "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+                "Access-Control-Allow-Headers": "Content-Type, Authorization",
             }
         }
 
@@ -270,21 +295,38 @@ def lambda_handler(event, context):
             'body': ''
         }
 
-    try:
-        body = json.loads(event["body"])
-    except json.JSONDecodeError:
-        logging.error("Invalid JSON body.")
+    # Accept both JSON and form-urlencoded bodies
+    logging.info(f"Type of body: {type(event.get('body'))}")
+    body = event.get("body") or event
+    if isinstance(body, str):
+        try:
+            body = json.loads(body)
+        except Exception:
+            logging.error(f"Invalid JSON body. Type of body: {type(event.get('body'))} and Event - {event}")
+            return {
+                'statusCode': 400,
+                'body': json.dumps({'error': 'Invalid JSON body.'}),
+                'headers': cors_headers
+            }
+    elif not isinstance(body, dict):
+        logging.error(f"Body is not a valid JSON object or string. Type of body: {type(event.get('body'))} and Event - {event}")
         return {
             'statusCode': 400,
-            'body': json.dumps({'error': 'Invalid JSON body.'}),
+            'body': json.dumps({'error': 'Invalid JSON format.'}),
+            'headers': cors_headers
+        }
+
+    transcript = body.get('transcript')
+
+    if not transcript:
+        logging.error("Transcript not found in the event data.")
+        return {
+            'statusCode': 400,
+            'body': json.dumps({'error': "Transcript not found in the event data."}),
             'headers': cors_headers
         }
 
     try:
-        transcript = body.get('transcript')
-        if not transcript:
-            raise KeyError("Transcript not found in the event data.")
-
         evaluator = ChatAgentEvaluator()
         total_scores, summary, sentiment, llm_response, input_token_count, output_token_count = evaluator.evaluate_conversation(transcript)
 
@@ -312,13 +354,6 @@ def lambda_handler(event, context):
             'headers': cors_headers
         }
 
-    except KeyError as e:
-        logging.error(f"Missing key in event data: {str(e)}")
-        return {
-            'statusCode': 400,
-            'body': json.dumps({'error': f"Missing key: {str(e)}"}),
-            'headers': cors_headers
-        }
     except Exception as e:
         logging.error(f"Unexpected error: {str(e)}")
         return {
