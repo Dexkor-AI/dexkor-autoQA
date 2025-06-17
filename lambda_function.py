@@ -28,7 +28,7 @@ class ChatAgentEvaluator:
         logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     def call_groq_inference(self, input_text: str):
-        """Function to call Groq for LLM inference."""
+        """Function to call Groq for LLM inference and return token usage from API."""
         if not self.model_id or not input_text:
             raise ValueError("Both model_id and input_text must be provided")
 
@@ -46,17 +46,26 @@ class ChatAgentEvaluator:
                 ],
                 model=self.model_id,
             )
-            return chat_completion.choices[0].message.content
+            content = chat_completion.choices[0].message.content
+            # Extract token usage from the API response
+            token_usage = {
+                "prompt_tokens": chat_completion.usage.prompt_tokens,
+                "completion_tokens": chat_completion.usage.completion_tokens,
+                "total_tokens": chat_completion.usage.total_tokens
+            }
+            return content, token_usage
         except Exception as e:
             logging.error(f"Unexpected error during Groq inference: {e}")
-            return None
+            return None, None
 
-    def count_tokens(self, text):
-        """Approximate token count using whitespace splitting (simple heuristic)."""
+    def count_tokens(self, text=None, usage=None):
+        """Return token count from API usage if provided, else fallback to heuristic."""
+        if usage and isinstance(usage, dict) and "total_tokens" in usage:
+            return usage["total_tokens"]
         if not text:
             return 0
         len_ = len(text)
-        return (len_ * 1.15) * (3/4)
+        return int((len_ * 1.15) * (3/4))
 
     def analyze_customer_sentiment_and_responses(self, transcript):
         """Analyzes the transcript to extract sentiment and response relevance."""
@@ -108,7 +117,7 @@ class ChatAgentEvaluator:
                 - Identify any spelling mistakes or incorrect sentence formations (e.g., "nit" instead of "not", "there" instead of "their").
                 - Identify if the agent missed using polite phrases like "please wait, let me check".
                 - Identify if the agent failed to apologize or educate the customer when closing the ticket.
-                
+            
             Task Steps:
             1. Evaluate the Transcript:
                 - Review the entire conversation between the customer and the agent. For each parameter, assign a score based on the details of the interaction. Ensure the score reflects the agent's adherence to the best practices outlined in the above categories.
@@ -154,17 +163,24 @@ class ChatAgentEvaluator:
             Transcript: 
             {transcript}
         """
-        input_token_count = self.count_tokens(prompt)
+        input_token_count = 0
         max_attempts = 3
         attempt = 0
         result = None
         parsed = None
         output_token_count = 0
+        output_token_usage = None
 
         while attempt < max_attempts:
             try:
-                result = self.call_groq_inference(prompt)
-                output_token_count = self.count_tokens(result) if result else 0
+                # Get both result and token usage from the API call
+                result, output_token_usage = self.call_groq_inference(prompt)
+                if output_token_usage:
+                    input_token_count = output_token_usage.get("prompt_tokens", 0)
+                    output_token_count = output_token_usage.get("completion_tokens", 0)
+                else:
+                    input_token_count = 0
+                    output_token_count = 0
                 if result:
                     parsed = self.parse_llm_output(result)
                     if parsed:
